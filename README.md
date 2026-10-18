@@ -1,3 +1,16 @@
+## Citation
+
+If you use the KPG 193 test system in your work, please cite:
+
+```bibtex
+@article{song2024kpg,
+  title={KPG 193: A Synthetic Korean Power Grid Test System for Decarbonization Studies},
+  author={Song, Geonho and Kim, Jip},
+  journal={arXiv preprint arXiv:2411.14756},
+  year={2024}
+}
+```
+
 # KPG 193 — BPESD-11 Test Grid Data
 
 ![License: ODbL](https://img.shields.io/badge/License-ODbL_1.0-blue.svg)
