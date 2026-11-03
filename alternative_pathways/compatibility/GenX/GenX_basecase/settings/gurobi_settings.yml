@@ -1,0 +1,10 @@
+Threads: 4
+Method: -1
+PreDual: -1
+Crossover: 1
+Feasib_Tol: 1.0e-8
+Optimal_Tol: 1.0e-8
+BarConvTol: 1.0e-9
+NumericFocus: 1
+SoftMemLimit: 170
+TimeLimit: 7200

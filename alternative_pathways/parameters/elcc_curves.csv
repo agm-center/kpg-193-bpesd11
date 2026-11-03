@@ -1,0 +1,13 @@
+gen_type,Penetration_Rate,Average_Capacity_Credit,Reference_Capacity_MW
+Solar,0,0,110237
+Solar,0.05,0.1851,110237
+Solar,0.1,0.1365,110237
+Solar,0.15,0.1036,110237
+Solar,0.2,0.0831,110237
+Solar,0.3,0.0598,110237
+Wind,0,0,110237
+Wind,0.05,0.1629,110237
+Wind,0.1,0.1333,110237
+Wind,0.15,0.1146,110237
+Wind,0.2,0.1018,110237
+Wind,0.3,0.0854,110237

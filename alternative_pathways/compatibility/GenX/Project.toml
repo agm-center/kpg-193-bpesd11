@@ -1,0 +1,16 @@
+[deps]
+HiGHS = "87dc4568-4c63-4d18-b0c0-bb2238e4078b"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GenX = "5d317b1e-30ec-4ed6-a8ce-8d2d88d7cfac"
+Gurobi = "2e9cd046-0924-5485-92f1-d5272153d98b"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+
+[compat]
+GenX = "=0.4.5"
+Gurobi = "1"
+JuMP = "1"
+julia = "1.12"
