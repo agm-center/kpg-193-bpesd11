@@ -1,0 +1,22 @@
+Myopic: 0
+CurStage: 15
+WriteIntermittentOutputs: 0
+NumStages: 15
+ConvergenceTolerance: 1.0e-7
+WACC: 0.06
+StageLengths:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1

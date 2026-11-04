@@ -1,4 +1,4 @@
-﻿bus_ID,Type,Pmax [MW],Pmin [MW]
+﻿bus_id,gen_type,pmax_mw,Pmin [MW]
 1,Solar,284.8614877184512381568,0
 2,Solar,233.8084649336971655232,0
 3,Solar,170.1483688474648340864,0

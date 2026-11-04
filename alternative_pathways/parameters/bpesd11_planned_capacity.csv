@@ -1,0 +1,46 @@
+﻿year,Data_Type,Technology,Technology_Label,Installed_Capacity_MW,Accredited_Capacity_MW,Installed_Share_pct,Accredited_Share_pct
+2023,Actual,Nuclear,Nuclear,24700,24700,17.1,20.8
+2023,Actual,Coal,Coal,39200,38700,27.1,32.7
+2023,Actual,LNG,LNG,43200,43200,29.9,36.5
+2023,Actual,Renewables,Renewable energy,30000,4900,20.8,4.1
+2023,Actual,NewEnergy,New energy,1400,1100,1.0,1.0
+2023,Actual,PSH,Pumped-storage hydropower,4700,4700,3.3,4.0
+2023,Actual,Other,Other,1300,1100,0.9,0.9
+2023,Actual,Unallocated,Unallocated (carbon-free market / reserved capacity),0,0,0.0,0.0
+2023,Actual,Total,Total,144400,118400,100.0,100.0
+2025,Plan,Nuclear,Nuclear,26100,26100,16.2,20.5
+2025,Plan,Coal,Coal,40800,40300,25.4,31.8
+2025,Plan,LNG,LNG,47300,47300,29.4,37.3
+2025,Plan,Renewables,Renewable energy,39000,6100,24.3,4.8
+2025,Plan,NewEnergy,New energy,1800,1400,1.1,1.1
+2025,Plan,PSH,Pumped-storage hydropower,4700,4700,2.9,3.7
+2025,Plan,Other,Other,1200,900,0.7,0.7
+2025,Plan,Unallocated,Unallocated (carbon-free market / reserved capacity),0,0,0.0,0.0
+2025,Plan,Total,Total,160800,126900,100.0,100.0
+2030,Plan,Nuclear,Nuclear,28900,28900,14.0,21.1
+2030,Plan,Coal,Coal,31700,31300,15.4,22.9
+2030,Plan,LNG,LNG,58800,58800,28.5,43.0
+2030,Plan,Renewables,Renewable energy,78000,9900,37.8,7.2
+2030,Plan,NewEnergy,New energy,2900,2200,1.4,1.6
+2030,Plan,PSH,Pumped-storage hydropower,5200,5200,2.5,3.8
+2030,Plan,Other,Other,700,400,0.3,0.3
+2030,Plan,Unallocated,Unallocated (carbon-free market / reserved capacity),0,0,0.0,0.0
+2030,Plan,Total,Total,206100,136700,100.0,100.0
+2035,Plan,Nuclear,Nuclear,32400,32400,13.1,21.5
+2035,Plan,Coal,Coal,28100,27700,11.4,18.4
+2035,Plan,LNG,LNG,64700,64700,26.2,43.0
+2035,Plan,Renewables,Renewable energy,107800,12400,43.6,8.2
+2035,Plan,NewEnergy,New energy,3600,2700,1.5,1.8
+2035,Plan,PSH,Pumped-storage hydropower,7900,7900,3.2,5.2
+2035,Plan,Other,Other,700,400,0.3,0.3
+2035,Plan,Unallocated,Unallocated (carbon-free market / reserved capacity),2200,2200,0.9,1.5
+2035,Plan,Total,Total,247400,150500,100.0,100.0
+2038,Plan,Nuclear,Nuclear,35200,35200,13.1,22.2
+2038,Plan,Coal,Coal,22200,21800,8.3,13.8
+2038,Plan,LNG,LNG,69200,69200,25.8,43.8
+2038,Plan,Renewables,Renewable energy,121900,13500,45.5,8.5
+2038,Plan,NewEnergy,New energy,4000,3000,1.5,1.9
+2038,Plan,PSH,Pumped-storage hydropower,10400,10400,3.9,6.6
+2038,Plan,Other,Other,700,400,0.2,0.3
+2038,Plan,Unallocated,Unallocated (carbon-free market / reserved capacity),4600,4600,1.7,2.9
+2038,Plan,Total,Total,268100,158000,100.0,100.0

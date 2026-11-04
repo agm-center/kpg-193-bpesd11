@@ -1,0 +1,1482 @@
+Resource,Bus,Kind,Technology,Source_File,Source_ID
+EXIST_TH_001,3,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,1
+EXIST_TH_002,3,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,2
+EXIST_TH_003,3,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,3
+EXIST_TH_004,4,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,4
+EXIST_TH_005,4,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,5
+EXIST_TH_006,4,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,6
+EXIST_TH_007,8,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,7
+EXIST_TH_008,8,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,8
+EXIST_TH_009,8,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,9
+EXIST_TH_010,9,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,10
+EXIST_TH_011,9,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,11
+EXIST_TH_012,10,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,12
+EXIST_TH_013,10,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,13
+EXIST_TH_014,19,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,14
+EXIST_TH_015,19,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,15
+EXIST_TH_016,20,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,16
+EXIST_TH_017,21,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,17
+EXIST_TH_018,21,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,18
+EXIST_TH_019,21,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,19
+EXIST_TH_020,21,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,20
+EXIST_TH_021,24,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,21
+EXIST_TH_022,26,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,22
+EXIST_TH_023,27,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,23
+EXIST_TH_024,27,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,24
+EXIST_TH_025,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,25
+EXIST_TH_026,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,26
+EXIST_TH_027,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,27
+EXIST_TH_028,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,28
+EXIST_TH_029,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,29
+EXIST_TH_030,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,30
+EXIST_TH_031,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,31
+EXIST_TH_032,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,32
+EXIST_TH_033,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,33
+EXIST_TH_034,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,34
+EXIST_TH_035,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,35
+EXIST_TH_036,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,36
+EXIST_TH_037,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,37
+EXIST_TH_038,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,38
+EXIST_TH_039,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,39
+EXIST_TH_040,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,40
+EXIST_TH_041,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,41
+EXIST_TH_042,34,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,42
+EXIST_TH_043,36,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,43
+EXIST_TH_044,36,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,44
+EXIST_TH_045,36,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,45
+EXIST_TH_046,36,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,46
+EXIST_TH_047,37,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,47
+EXIST_TH_048,39,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,48
+EXIST_TH_049,39,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,49
+EXIST_TH_050,40,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,50
+EXIST_TH_051,40,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,51
+EXIST_TH_052,40,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,52
+EXIST_TH_053,40,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,53
+EXIST_TH_054,40,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,54
+EXIST_TH_055,40,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,55
+EXIST_TH_056,40,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,56
+EXIST_TH_057,40,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,57
+EXIST_TH_058,43,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,58
+EXIST_TH_059,43,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,59
+EXIST_TH_060,45,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,60
+EXIST_TH_061,47,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,61
+EXIST_TH_062,47,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,62
+EXIST_TH_063,47,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,63
+EXIST_TH_064,47,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,64
+EXIST_TH_065,47,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,65
+EXIST_TH_066,47,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,66
+EXIST_TH_067,48,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,67
+EXIST_TH_068,48,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,68
+EXIST_TH_069,48,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,69
+EXIST_TH_070,49,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,70
+EXIST_TH_071,53,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,71
+EXIST_TH_072,53,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,72
+EXIST_TH_073,53,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,73
+EXIST_TH_074,53,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,74
+EXIST_TH_075,53,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,75
+EXIST_TH_076,53,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,76
+EXIST_TH_077,53,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,77
+EXIST_TH_078,53,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,78
+EXIST_TH_079,53,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,79
+EXIST_TH_080,53,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,80
+EXIST_TH_081,53,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,81
+EXIST_TH_082,53,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,82
+EXIST_TH_083,53,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,83
+EXIST_TH_084,53,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,84
+EXIST_TH_085,57,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,85
+EXIST_TH_086,58,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,86
+EXIST_TH_087,59,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,87
+EXIST_TH_088,59,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,88
+EXIST_TH_089,59,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,89
+EXIST_TH_090,59,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,90
+EXIST_TH_091,59,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,91
+EXIST_TH_092,59,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,92
+EXIST_TH_093,59,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,93
+EXIST_TH_094,59,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,94
+EXIST_TH_095,59,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,95
+EXIST_TH_096,59,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,96
+EXIST_TH_097,59,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,97
+EXIST_TH_098,62,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,98
+EXIST_TH_099,64,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,99
+EXIST_TH_100,70,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,100
+EXIST_TH_101,71,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,101
+EXIST_TH_102,73,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,102
+EXIST_TH_103,73,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,103
+EXIST_TH_104,73,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,104
+EXIST_TH_105,73,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,105
+EXIST_TH_106,79,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,106
+EXIST_TH_107,75,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,107
+EXIST_TH_108,75,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,108
+EXIST_TH_109,82,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,109
+EXIST_TH_110,82,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,110
+EXIST_TH_111,82,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,111
+EXIST_TH_112,82,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,112
+EXIST_TH_113,82,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,113
+EXIST_TH_114,82,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,114
+EXIST_TH_115,82,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,115
+EXIST_TH_116,87,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,116
+EXIST_TH_117,98,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,117
+EXIST_TH_118,99,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,118
+EXIST_TH_119,100,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,119
+EXIST_TH_120,100,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,120
+EXIST_TH_121,100,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,121
+EXIST_TH_122,100,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,122
+EXIST_TH_123,100,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,123
+EXIST_TH_124,100,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,124
+EXIST_TH_125,100,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,125
+EXIST_TH_126,100,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,126
+EXIST_TH_127,100,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,127
+EXIST_TH_128,100,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,128
+EXIST_TH_129,100,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,129
+EXIST_TH_130,106,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,130
+EXIST_TH_131,108,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,131
+EXIST_TH_132,124,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,132
+EXIST_TH_133,124,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,133
+EXIST_TH_134,124,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,134
+EXIST_TH_135,124,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,135
+EXIST_TH_136,124,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,136
+EXIST_TH_137,124,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,137
+EXIST_TH_138,128,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,138
+EXIST_TH_139,134,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,139
+EXIST_TH_140,134,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,140
+EXIST_TH_141,134,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,141
+EXIST_TH_142,134,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,142
+EXIST_TH_143,137,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,143
+EXIST_TH_144,137,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,144
+EXIST_TH_145,156,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,145
+EXIST_TH_147,166,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,147
+EXIST_TH_148,166,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,148
+EXIST_TH_149,166,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,149
+EXIST_TH_150,166,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,150
+EXIST_TH_151,166,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,151
+EXIST_TH_152,167,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,152
+EXIST_TH_153,167,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,153
+EXIST_TH_154,167,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,154
+EXIST_TH_155,167,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,155
+EXIST_TH_156,167,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,156
+EXIST_TH_157,172,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,157
+EXIST_TH_158,175,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,158
+EXIST_TH_159,175,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,159
+EXIST_TH_160,175,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,160
+EXIST_TH_161,175,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,161
+EXIST_TH_162,175,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,162
+EXIST_TH_163,175,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,163
+EXIST_TH_164,175,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,164
+EXIST_TH_165,180,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,165
+EXIST_TH_166,186,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,166
+EXIST_TH_167,186,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,167
+EXIST_TH_168,186,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,168
+EXIST_TH_169,186,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,169
+EXIST_TH_170,190,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,170
+EXIST_TH_171,190,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,171
+EXIST_TH_172,190,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,172
+EXIST_TH_173,190,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,173
+EXIST_TH_174,190,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,174
+EXIST_TH_175,190,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,175
+EXIST_TH_176,193,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,176
+EXIST_TH_177,193,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,177
+EXIST_TH_178,193,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,178
+EXIST_TH_179,193,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,179
+EXIST_TH_180,193,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,180
+EXIST_TH_181,193,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,181
+EXIST_TH_182,193,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,182
+EXIST_TH_183,193,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,183
+EXIST_TH_184,71,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,184
+EXIST_TH_185,60,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,185
+EXIST_TH_186,42,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,186
+EXIST_TH_187,11,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,187
+EXIST_TH_188,172,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,188
+EXIST_TH_189,82,existing_thermal,Nuclear,bpesd2024:mpc.gen/gencost/genthermal,189
+EXIST_TH_190,75,existing_thermal,Coal,bpesd2024:mpc.gen/gencost/genthermal,190
+EXIST_TH_191,64,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,191
+EXIST_TH_192,160,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,192
+EXIST_TH_193,192,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,193
+EXIST_TH_194,167,existing_thermal,LNG,bpesd2024:mpc.gen/gencost/genthermal,194
+CAN_TH_11_LNG_1,11,candidate_thermal,LNG,thermal_candidates.csv,11*LNG*1
+CAN_TH_16_LNG_1,16,candidate_thermal,LNG,thermal_candidates.csv,16*LNG*1
+CAN_TH_24_LNG_1,24,candidate_thermal,LNG,thermal_candidates.csv,24*LNG*1
+CAN_TH_26_LNG_1,26,candidate_thermal,LNG,thermal_candidates.csv,26*LNG*1
+CAN_TH_26_LNG_2,26,candidate_thermal,LNG,thermal_candidates.csv,26*LNG*2
+CAN_TH_36_LNG_1,36,candidate_thermal,LNG,thermal_candidates.csv,36*LNG*1
+CAN_TH_36_LNG_2,36,candidate_thermal,LNG,thermal_candidates.csv,36*LNG*2
+CAN_TH_40_LNG_1,40,candidate_thermal,LNG,thermal_candidates.csv,40*LNG*1
+CAN_TH_40_LNG_2,40,candidate_thermal,LNG,thermal_candidates.csv,40*LNG*2
+CAN_TH_40_LNG_3,40,candidate_thermal,LNG,thermal_candidates.csv,40*LNG*3
+CAN_TH_43_LNG_1,43,candidate_thermal,LNG,thermal_candidates.csv,43*LNG*1
+CAN_TH_46_LNG_1,46,candidate_thermal,LNG,thermal_candidates.csv,46*LNG*1
+CAN_TH_46_LNG_2,46,candidate_thermal,LNG,thermal_candidates.csv,46*LNG*2
+CAN_TH_52_LNG_1,52,candidate_thermal,LNG,thermal_candidates.csv,52*LNG*1
+CAN_TH_52_LNG_2,52,candidate_thermal,LNG,thermal_candidates.csv,52*LNG*2
+CAN_TH_53_LNG_1,53,candidate_thermal,LNG,thermal_candidates.csv,53*LNG*1
+CAN_TH_53_LNG_2,53,candidate_thermal,LNG,thermal_candidates.csv,53*LNG*2
+CAN_TH_53_LNG_3,53,candidate_thermal,LNG,thermal_candidates.csv,53*LNG*3
+CAN_TH_53_LNG_4,53,candidate_thermal,LNG,thermal_candidates.csv,53*LNG*4
+CAN_TH_58_LNG_1,58,candidate_thermal,LNG,thermal_candidates.csv,58*LNG*1
+CAN_TH_59_LNG_1,59,candidate_thermal,LNG,thermal_candidates.csv,59*LNG*1
+CAN_TH_59_LNG_2,59,candidate_thermal,LNG,thermal_candidates.csv,59*LNG*2
+CAN_TH_59_LNG_3,59,candidate_thermal,LNG,thermal_candidates.csv,59*LNG*3
+CAN_TH_59_LNG_4,59,candidate_thermal,LNG,thermal_candidates.csv,59*LNG*4
+CAN_TH_59_LNG_5,59,candidate_thermal,LNG,thermal_candidates.csv,59*LNG*5
+CAN_TH_62_LNG_1,62,candidate_thermal,LNG,thermal_candidates.csv,62*LNG*1
+CAN_TH_73_LNG_1,73,candidate_thermal,LNG,thermal_candidates.csv,73*LNG*1
+CAN_TH_75_LNG_1,75,candidate_thermal,LNG,thermal_candidates.csv,75*LNG*1
+CAN_TH_82_Nuclear_1,82,candidate_thermal,Nuclear,thermal_candidates.csv,82*Nuclear*1
+CAN_TH_82_Nuclear_2,82,candidate_thermal,Nuclear,thermal_candidates.csv,82*Nuclear*2
+CAN_TH_87_LNG_1,87,candidate_thermal,LNG,thermal_candidates.csv,87*LNG*1
+CAN_TH_96_LNG_1,96,candidate_thermal,LNG,thermal_candidates.csv,96*LNG*1
+CAN_TH_100_LNG_1,100,candidate_thermal,LNG,thermal_candidates.csv,100*LNG*1
+CAN_TH_100_LNG_2,100,candidate_thermal,LNG,thermal_candidates.csv,100*LNG*2
+CAN_TH_100_LNG_3,100,candidate_thermal,LNG,thermal_candidates.csv,100*LNG*3
+CAN_TH_100_LNG_4,100,candidate_thermal,LNG,thermal_candidates.csv,100*LNG*4
+CAN_TH_137_LNG_1,137,candidate_thermal,LNG,thermal_candidates.csv,137*LNG*1
+CAN_TH_137_LNG_2,137,candidate_thermal,LNG,thermal_candidates.csv,137*LNG*2
+CAN_TH_149_LNG_1,149,candidate_thermal,LNG,thermal_candidates.csv,149*LNG*1
+CAN_TH_174_LNG_1,174,candidate_thermal,LNG,thermal_candidates.csv,174*LNG*1
+CAN_TH_175_Nuclear_1,175,candidate_thermal,Nuclear,thermal_candidates.csv,175*Nuclear*1
+CAN_TH_175_Nuclear_2,175,candidate_thermal,Nuclear,thermal_candidates.csv,175*Nuclear*2
+CAN_TH_182_LNG_1,182,candidate_thermal,LNG,thermal_candidates.csv,182*LNG*1
+CAN_TH_190_LNG_1,190,candidate_thermal,LNG,thermal_candidates.csv,190*LNG*1
+CAN_TH_190_LNG_2,190,candidate_thermal,LNG,thermal_candidates.csv,190*LNG*2
+CAN_TH_190_LNG_3,190,candidate_thermal,LNG,thermal_candidates.csv,190*LNG*3
+CAN_TH_193_LNG_1,193,candidate_thermal,LNG,thermal_candidates.csv,193*LNG*1
+CAN_TH_193_LNG_2,193,candidate_thermal,LNG,thermal_candidates.csv,193*LNG*2
+CAN_TH_193_LNG_3,193,candidate_thermal,LNG,thermal_candidates.csv,193*LNG*3
+CAN_TH_193_LNG_4,193,candidate_thermal,LNG,thermal_candidates.csv,193*LNG*4
+CAN_TH_1_LNG_1,1,candidate_thermal,LNG,thermal_candidates.csv,1*LNG*1
+CAN_TH_2_LNG_1,2,candidate_thermal,LNG,thermal_candidates.csv,2*LNG*1
+CAN_TH_3_LNG_1,3,candidate_thermal,LNG,thermal_candidates.csv,3*LNG*1
+CAN_TH_5_LNG_1,5,candidate_thermal,LNG,thermal_candidates.csv,5*LNG*1
+CAN_TH_6_LNG_1,6,candidate_thermal,LNG,thermal_candidates.csv,6*LNG*1
+CAN_TH_7_LNG_1,7,candidate_thermal,LNG,thermal_candidates.csv,7*LNG*1
+CAN_TH_8_LNG_1,8,candidate_thermal,LNG,thermal_candidates.csv,8*LNG*1
+CAN_TH_11_LNG_2,11,candidate_thermal,LNG,thermal_candidates.csv,11*LNG*2
+CAN_TH_16_LNG_2,16,candidate_thermal,LNG,thermal_candidates.csv,16*LNG*2
+CAN_TH_27_LNG_1,27,candidate_thermal,LNG,thermal_candidates.csv,27*LNG*1
+CAN_TH_28_LNG_1,28,candidate_thermal,LNG,thermal_candidates.csv,28*LNG*1
+CAN_TH_34_LNG_1,34,candidate_thermal,LNG,thermal_candidates.csv,34*LNG*1
+CAN_TH_38_LNG_1,38,candidate_thermal,LNG,thermal_candidates.csv,38*LNG*1
+CAN_TH_40_LNG_4,40,candidate_thermal,LNG,thermal_candidates.csv,40*LNG*4
+CAN_TH_41_LNG_1,41,candidate_thermal,LNG,thermal_candidates.csv,41*LNG*1
+CAN_TH_42_LNG_1,42,candidate_thermal,LNG,thermal_candidates.csv,42*LNG*1
+CAN_TH_46_LNG_3,46,candidate_thermal,LNG,thermal_candidates.csv,46*LNG*3
+CAN_TH_47_LNG_1,47,candidate_thermal,LNG,thermal_candidates.csv,47*LNG*1
+CAN_TH_49_LNG_1,49,candidate_thermal,LNG,thermal_candidates.csv,49*LNG*1
+CAN_TH_50_LNG_1,50,candidate_thermal,LNG,thermal_candidates.csv,50*LNG*1
+CAN_TH_51_LNG_1,51,candidate_thermal,LNG,thermal_candidates.csv,51*LNG*1
+CAN_TH_52_LNG_3,52,candidate_thermal,LNG,thermal_candidates.csv,52*LNG*3
+CAN_TH_53_LNG_5,53,candidate_thermal,LNG,thermal_candidates.csv,53*LNG*5
+CAN_TH_53_Nuclear_1,53,candidate_thermal,Nuclear,thermal_candidates.csv,53*Nuclear*1
+CAN_TH_54_LNG_1,54,candidate_thermal,LNG,thermal_candidates.csv,54*LNG*1
+CAN_TH_55_LNG_1,55,candidate_thermal,LNG,thermal_candidates.csv,55*LNG*1
+CAN_TH_56_LNG_1,56,candidate_thermal,LNG,thermal_candidates.csv,56*LNG*1
+CAN_TH_57_LNG_1,57,candidate_thermal,LNG,thermal_candidates.csv,57*LNG*1
+CAN_TH_58_LNG_2,58,candidate_thermal,LNG,thermal_candidates.csv,58*LNG*2
+CAN_TH_58_Nuclear_1,58,candidate_thermal,Nuclear,thermal_candidates.csv,58*Nuclear*1
+CAN_TH_59_LNG_6,59,candidate_thermal,LNG,thermal_candidates.csv,59*LNG*6
+CAN_TH_59_Nuclear_1,59,candidate_thermal,Nuclear,thermal_candidates.csv,59*Nuclear*1
+CAN_TH_60_LNG_1,60,candidate_thermal,LNG,thermal_candidates.csv,60*LNG*1
+CAN_TH_61_LNG_1,61,candidate_thermal,LNG,thermal_candidates.csv,61*LNG*1
+CAN_TH_62_LNG_2,62,candidate_thermal,LNG,thermal_candidates.csv,62*LNG*2
+CAN_TH_63_LNG_1,63,candidate_thermal,LNG,thermal_candidates.csv,63*LNG*1
+CAN_TH_63_Nuclear_1,63,candidate_thermal,Nuclear,thermal_candidates.csv,63*Nuclear*1
+CAN_TH_64_LNG_1,64,candidate_thermal,LNG,thermal_candidates.csv,64*LNG*1
+CAN_TH_65_LNG_1,65,candidate_thermal,LNG,thermal_candidates.csv,65*LNG*1
+CAN_TH_68_LNG_1,68,candidate_thermal,LNG,thermal_candidates.csv,68*LNG*1
+CAN_TH_68_Nuclear_1,68,candidate_thermal,Nuclear,thermal_candidates.csv,68*Nuclear*1
+CAN_TH_70_LNG_1,70,candidate_thermal,LNG,thermal_candidates.csv,70*LNG*1
+CAN_TH_71_LNG_1,71,candidate_thermal,LNG,thermal_candidates.csv,71*LNG*1
+CAN_TH_72_LNG_1,72,candidate_thermal,LNG,thermal_candidates.csv,72*LNG*1
+CAN_TH_73_LNG_2,73,candidate_thermal,LNG,thermal_candidates.csv,73*LNG*2
+CAN_TH_74_LNG_1,74,candidate_thermal,LNG,thermal_candidates.csv,74*LNG*1
+CAN_TH_75_LNG_2,75,candidate_thermal,LNG,thermal_candidates.csv,75*LNG*2
+CAN_TH_75_Nuclear_1,75,candidate_thermal,Nuclear,thermal_candidates.csv,75*Nuclear*1
+CAN_TH_76_LNG_1,76,candidate_thermal,LNG,thermal_candidates.csv,76*LNG*1
+CAN_TH_77_LNG_1,77,candidate_thermal,LNG,thermal_candidates.csv,77*LNG*1
+CAN_TH_78_LNG_1,78,candidate_thermal,LNG,thermal_candidates.csv,78*LNG*1
+CAN_TH_79_LNG_1,79,candidate_thermal,LNG,thermal_candidates.csv,79*LNG*1
+CAN_TH_81_LNG_1,81,candidate_thermal,LNG,thermal_candidates.csv,81*LNG*1
+CAN_TH_82_LNG_1,82,candidate_thermal,LNG,thermal_candidates.csv,82*LNG*1
+CAN_TH_83_LNG_1,83,candidate_thermal,LNG,thermal_candidates.csv,83*LNG*1
+CAN_TH_84_LNG_1,84,candidate_thermal,LNG,thermal_candidates.csv,84*LNG*1
+CAN_TH_85_LNG_1,85,candidate_thermal,LNG,thermal_candidates.csv,85*LNG*1
+CAN_TH_86_LNG_1,86,candidate_thermal,LNG,thermal_candidates.csv,86*LNG*1
+CAN_TH_87_LNG_2,87,candidate_thermal,LNG,thermal_candidates.csv,87*LNG*2
+CAN_TH_88_LNG_1,88,candidate_thermal,LNG,thermal_candidates.csv,88*LNG*1
+CAN_TH_89_LNG_1,89,candidate_thermal,LNG,thermal_candidates.csv,89*LNG*1
+CAN_TH_90_LNG_1,90,candidate_thermal,LNG,thermal_candidates.csv,90*LNG*1
+CAN_TH_91_LNG_1,91,candidate_thermal,LNG,thermal_candidates.csv,91*LNG*1
+CAN_TH_92_LNG_1,92,candidate_thermal,LNG,thermal_candidates.csv,92*LNG*1
+CAN_TH_93_LNG_1,93,candidate_thermal,LNG,thermal_candidates.csv,93*LNG*1
+CAN_TH_94_LNG_1,94,candidate_thermal,LNG,thermal_candidates.csv,94*LNG*1
+CAN_TH_94_Nuclear_1,94,candidate_thermal,Nuclear,thermal_candidates.csv,94*Nuclear*1
+CAN_TH_95_LNG_1,95,candidate_thermal,LNG,thermal_candidates.csv,95*LNG*1
+CAN_TH_96_LNG_2,96,candidate_thermal,LNG,thermal_candidates.csv,96*LNG*2
+CAN_TH_97_LNG_1,97,candidate_thermal,LNG,thermal_candidates.csv,97*LNG*1
+CAN_TH_98_LNG_1,98,candidate_thermal,LNG,thermal_candidates.csv,98*LNG*1
+CAN_TH_99_LNG_1,99,candidate_thermal,LNG,thermal_candidates.csv,99*LNG*1
+CAN_TH_100_LNG_5,100,candidate_thermal,LNG,thermal_candidates.csv,100*LNG*5
+CAN_TH_100_Nuclear_1,100,candidate_thermal,Nuclear,thermal_candidates.csv,100*Nuclear*1
+CAN_TH_101_LNG_1,101,candidate_thermal,LNG,thermal_candidates.csv,101*LNG*1
+CAN_TH_102_LNG_1,102,candidate_thermal,LNG,thermal_candidates.csv,102*LNG*1
+CAN_TH_103_LNG_1,103,candidate_thermal,LNG,thermal_candidates.csv,103*LNG*1
+CAN_TH_104_LNG_1,104,candidate_thermal,LNG,thermal_candidates.csv,104*LNG*1
+CAN_TH_105_LNG_1,105,candidate_thermal,LNG,thermal_candidates.csv,105*LNG*1
+CAN_TH_106_LNG_1,106,candidate_thermal,LNG,thermal_candidates.csv,106*LNG*1
+CAN_TH_106_Nuclear_1,106,candidate_thermal,Nuclear,thermal_candidates.csv,106*Nuclear*1
+CAN_TH_107_LNG_1,107,candidate_thermal,LNG,thermal_candidates.csv,107*LNG*1
+CAN_TH_108_LNG_1,108,candidate_thermal,LNG,thermal_candidates.csv,108*LNG*1
+CAN_TH_109_LNG_1,109,candidate_thermal,LNG,thermal_candidates.csv,109*LNG*1
+CAN_TH_110_LNG_1,110,candidate_thermal,LNG,thermal_candidates.csv,110*LNG*1
+CAN_TH_111_LNG_1,111,candidate_thermal,LNG,thermal_candidates.csv,111*LNG*1
+CAN_TH_112_LNG_1,112,candidate_thermal,LNG,thermal_candidates.csv,112*LNG*1
+CAN_TH_114_LNG_1,114,candidate_thermal,LNG,thermal_candidates.csv,114*LNG*1
+CAN_TH_114_Nuclear_1,114,candidate_thermal,Nuclear,thermal_candidates.csv,114*Nuclear*1
+CAN_TH_115_LNG_1,115,candidate_thermal,LNG,thermal_candidates.csv,115*LNG*1
+CAN_TH_116_LNG_1,116,candidate_thermal,LNG,thermal_candidates.csv,116*LNG*1
+CAN_TH_117_LNG_1,117,candidate_thermal,LNG,thermal_candidates.csv,117*LNG*1
+CAN_TH_117_Nuclear_1,117,candidate_thermal,Nuclear,thermal_candidates.csv,117*Nuclear*1
+CAN_TH_118_LNG_1,118,candidate_thermal,LNG,thermal_candidates.csv,118*LNG*1
+CAN_TH_118_Nuclear_1,118,candidate_thermal,Nuclear,thermal_candidates.csv,118*Nuclear*1
+CAN_TH_119_LNG_1,119,candidate_thermal,LNG,thermal_candidates.csv,119*LNG*1
+CAN_TH_120_LNG_1,120,candidate_thermal,LNG,thermal_candidates.csv,120*LNG*1
+CAN_TH_121_LNG_1,121,candidate_thermal,LNG,thermal_candidates.csv,121*LNG*1
+CAN_TH_122_LNG_1,122,candidate_thermal,LNG,thermal_candidates.csv,122*LNG*1
+CAN_TH_123_LNG_1,123,candidate_thermal,LNG,thermal_candidates.csv,123*LNG*1
+CAN_TH_124_LNG_1,124,candidate_thermal,LNG,thermal_candidates.csv,124*LNG*1
+CAN_TH_125_LNG_1,125,candidate_thermal,LNG,thermal_candidates.csv,125*LNG*1
+CAN_TH_126_LNG_1,126,candidate_thermal,LNG,thermal_candidates.csv,126*LNG*1
+CAN_TH_127_LNG_1,127,candidate_thermal,LNG,thermal_candidates.csv,127*LNG*1
+CAN_TH_128_LNG_1,128,candidate_thermal,LNG,thermal_candidates.csv,128*LNG*1
+CAN_TH_129_LNG_1,129,candidate_thermal,LNG,thermal_candidates.csv,129*LNG*1
+CAN_TH_129_Nuclear_1,129,candidate_thermal,Nuclear,thermal_candidates.csv,129*Nuclear*1
+CAN_TH_130_LNG_1,130,candidate_thermal,LNG,thermal_candidates.csv,130*LNG*1
+CAN_TH_131_LNG_1,131,candidate_thermal,LNG,thermal_candidates.csv,131*LNG*1
+CAN_TH_132_LNG_1,132,candidate_thermal,LNG,thermal_candidates.csv,132*LNG*1
+CAN_TH_132_Nuclear_1,132,candidate_thermal,Nuclear,thermal_candidates.csv,132*Nuclear*1
+CAN_TH_133_LNG_1,133,candidate_thermal,LNG,thermal_candidates.csv,133*LNG*1
+CAN_TH_134_LNG_1,134,candidate_thermal,LNG,thermal_candidates.csv,134*LNG*1
+CAN_TH_135_LNG_1,135,candidate_thermal,LNG,thermal_candidates.csv,135*LNG*1
+CAN_TH_136_LNG_1,136,candidate_thermal,LNG,thermal_candidates.csv,136*LNG*1
+CAN_TH_136_Nuclear_1,136,candidate_thermal,Nuclear,thermal_candidates.csv,136*Nuclear*1
+CAN_TH_137_LNG_3,137,candidate_thermal,LNG,thermal_candidates.csv,137*LNG*3
+CAN_TH_138_LNG_1,138,candidate_thermal,LNG,thermal_candidates.csv,138*LNG*1
+CAN_TH_138_Nuclear_1,138,candidate_thermal,Nuclear,thermal_candidates.csv,138*Nuclear*1
+CAN_TH_139_LNG_1,139,candidate_thermal,LNG,thermal_candidates.csv,139*LNG*1
+CAN_TH_139_Nuclear_1,139,candidate_thermal,Nuclear,thermal_candidates.csv,139*Nuclear*1
+CAN_TH_140_LNG_1,140,candidate_thermal,LNG,thermal_candidates.csv,140*LNG*1
+CAN_TH_140_Nuclear_1,140,candidate_thermal,Nuclear,thermal_candidates.csv,140*Nuclear*1
+CAN_TH_141_LNG_1,141,candidate_thermal,LNG,thermal_candidates.csv,141*LNG*1
+CAN_TH_141_Nuclear_1,141,candidate_thermal,Nuclear,thermal_candidates.csv,141*Nuclear*1
+CAN_TH_142_LNG_1,142,candidate_thermal,LNG,thermal_candidates.csv,142*LNG*1
+CAN_TH_142_Nuclear_1,142,candidate_thermal,Nuclear,thermal_candidates.csv,142*Nuclear*1
+CAN_TH_143_LNG_1,143,candidate_thermal,LNG,thermal_candidates.csv,143*LNG*1
+CAN_TH_143_Nuclear_1,143,candidate_thermal,Nuclear,thermal_candidates.csv,143*Nuclear*1
+CAN_TH_144_LNG_1,144,candidate_thermal,LNG,thermal_candidates.csv,144*LNG*1
+CAN_TH_144_Nuclear_1,144,candidate_thermal,Nuclear,thermal_candidates.csv,144*Nuclear*1
+CAN_TH_145_LNG_1,145,candidate_thermal,LNG,thermal_candidates.csv,145*LNG*1
+CAN_TH_145_Nuclear_1,145,candidate_thermal,Nuclear,thermal_candidates.csv,145*Nuclear*1
+CAN_TH_146_LNG_1,146,candidate_thermal,LNG,thermal_candidates.csv,146*LNG*1
+CAN_TH_147_LNG_1,147,candidate_thermal,LNG,thermal_candidates.csv,147*LNG*1
+CAN_TH_148_LNG_1,148,candidate_thermal,LNG,thermal_candidates.csv,148*LNG*1
+CAN_TH_149_LNG_2,149,candidate_thermal,LNG,thermal_candidates.csv,149*LNG*2
+CAN_TH_150_LNG_1,150,candidate_thermal,LNG,thermal_candidates.csv,150*LNG*1
+CAN_TH_150_Nuclear_1,150,candidate_thermal,Nuclear,thermal_candidates.csv,150*Nuclear*1
+CAN_TH_151_LNG_1,151,candidate_thermal,LNG,thermal_candidates.csv,151*LNG*1
+CAN_TH_152_LNG_1,152,candidate_thermal,LNG,thermal_candidates.csv,152*LNG*1
+CAN_TH_153_LNG_1,153,candidate_thermal,LNG,thermal_candidates.csv,153*LNG*1
+CAN_TH_154_LNG_1,154,candidate_thermal,LNG,thermal_candidates.csv,154*LNG*1
+CAN_TH_156_LNG_1,156,candidate_thermal,LNG,thermal_candidates.csv,156*LNG*1
+CAN_TH_158_LNG_1,158,candidate_thermal,LNG,thermal_candidates.csv,158*LNG*1
+CAN_TH_159_LNG_1,159,candidate_thermal,LNG,thermal_candidates.csv,159*LNG*1
+CAN_TH_160_LNG_1,160,candidate_thermal,LNG,thermal_candidates.csv,160*LNG*1
+CAN_TH_161_LNG_1,161,candidate_thermal,LNG,thermal_candidates.csv,161*LNG*1
+CAN_TH_162_LNG_1,162,candidate_thermal,LNG,thermal_candidates.csv,162*LNG*1
+CAN_TH_163_LNG_1,163,candidate_thermal,LNG,thermal_candidates.csv,163*LNG*1
+CAN_TH_164_LNG_1,164,candidate_thermal,LNG,thermal_candidates.csv,164*LNG*1
+CAN_TH_165_LNG_1,165,candidate_thermal,LNG,thermal_candidates.csv,165*LNG*1
+CAN_TH_166_LNG_1,166,candidate_thermal,LNG,thermal_candidates.csv,166*LNG*1
+CAN_TH_168_LNG_1,168,candidate_thermal,LNG,thermal_candidates.csv,168*LNG*1
+CAN_TH_169_LNG_1,169,candidate_thermal,LNG,thermal_candidates.csv,169*LNG*1
+CAN_TH_170_LNG_1,170,candidate_thermal,LNG,thermal_candidates.csv,170*LNG*1
+CAN_TH_171_LNG_1,171,candidate_thermal,LNG,thermal_candidates.csv,171*LNG*1
+CAN_TH_172_LNG_1,172,candidate_thermal,LNG,thermal_candidates.csv,172*LNG*1
+CAN_TH_173_LNG_1,173,candidate_thermal,LNG,thermal_candidates.csv,173*LNG*1
+CAN_TH_174_LNG_2,174,candidate_thermal,LNG,thermal_candidates.csv,174*LNG*2
+CAN_TH_175_LNG_1,175,candidate_thermal,LNG,thermal_candidates.csv,175*LNG*1
+CAN_TH_176_LNG_1,176,candidate_thermal,LNG,thermal_candidates.csv,176*LNG*1
+CAN_TH_177_LNG_1,177,candidate_thermal,LNG,thermal_candidates.csv,177*LNG*1
+CAN_TH_178_LNG_1,178,candidate_thermal,LNG,thermal_candidates.csv,178*LNG*1
+CAN_TH_180_LNG_1,180,candidate_thermal,LNG,thermal_candidates.csv,180*LNG*1
+CAN_TH_182_LNG_2,182,candidate_thermal,LNG,thermal_candidates.csv,182*LNG*2
+CAN_TH_183_LNG_1,183,candidate_thermal,LNG,thermal_candidates.csv,183*LNG*1
+CAN_TH_188_LNG_1,188,candidate_thermal,LNG,thermal_candidates.csv,188*LNG*1
+CAN_TH_189_LNG_1,189,candidate_thermal,LNG,thermal_candidates.csv,189*LNG*1
+CAN_TH_190_LNG_4,190,candidate_thermal,LNG,thermal_candidates.csv,190*LNG*4
+CAN_TH_191_LNG_1,191,candidate_thermal,LNG,thermal_candidates.csv,191*LNG*1
+CAN_TH_192_LNG_1,192,candidate_thermal,LNG,thermal_candidates.csv,192*LNG*1
+CAN_TH_193_LNG_5,193,candidate_thermal,LNG,thermal_candidates.csv,193*LNG*5
+CAN_TH_193_Nuclear_1,193,candidate_thermal,Nuclear,thermal_candidates.csv,193*Nuclear*1
+RETRO_G001,3,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,3*H2_Retrofit*1
+RETRO_G002,3,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,3*H2_Retrofit*2
+RETRO_G003,3,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,3*H2_Retrofit*3
+RETRO_G004,4,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,4*H2_Retrofit*4
+RETRO_G005,4,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,4*H2_Retrofit*5
+RETRO_G006,4,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,4*H2_Retrofit*6
+RETRO_G007,8,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,8*H2_Retrofit*7
+RETRO_G008,8,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,8*H2_Retrofit*8
+RETRO_G009,8,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,8*H2_Retrofit*9
+RETRO_G010,9,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,9*H2_Retrofit*10
+RETRO_G011,9,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,9*H2_Retrofit*11
+RETRO_G012,10,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,10*H2_Retrofit*12
+RETRO_G013,10,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,10*H2_Retrofit*13
+RETRO_G187,11,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,11*H2_Retrofit*187
+RETRO_G014,19,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,19*H2_Retrofit*14
+RETRO_G015,19,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,19*H2_Retrofit*15
+RETRO_G016,20,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,20*H2_Retrofit*16
+RETRO_G017,21,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,21*H2_Retrofit*17
+RETRO_G018,21,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,21*H2_Retrofit*18
+RETRO_G019,21,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,21*H2_Retrofit*19
+RETRO_G020,21,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,21*H2_Retrofit*20
+RETRO_G021,24,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,24*H2_Retrofit*21
+RETRO_G022,26,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,26*H2_Retrofit*22
+RETRO_G023,27,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,27*H2_Retrofit*23
+RETRO_G024,27,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,27*H2_Retrofit*24
+RETRO_G025,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*25
+RETRO_G026,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*26
+RETRO_G027,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*27
+RETRO_G028,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*28
+RETRO_G029,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*29
+RETRO_G030,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*30
+RETRO_G031,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*31
+RETRO_G032,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*32
+RETRO_G033,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*33
+RETRO_G034,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*34
+RETRO_G035,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*35
+RETRO_G036,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*36
+RETRO_G037,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*37
+RETRO_G038,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*38
+RETRO_G039,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*39
+RETRO_G040,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*40
+RETRO_G041,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*41
+RETRO_G042,34,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,34*H2_Retrofit*42
+RETRO_G043,36,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,36*H2_Retrofit*43
+RETRO_G044,36,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,36*H2_Retrofit*44
+RETRO_G045,36,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,36*H2_Retrofit*45
+RETRO_G046,36,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,36*H2_Retrofit*46
+RETRO_G047,37,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,37*H2_Retrofit*47
+RETRO_G048,39,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,39*H2_Retrofit*48
+RETRO_G049,39,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,39*H2_Retrofit*49
+RETRO_G050,40,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,40*H2_Retrofit*50
+RETRO_G051,40,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,40*H2_Retrofit*51
+RETRO_G052,40,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,40*NH3_Retrofit*52
+RETRO_G053,40,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,40*NH3_Retrofit*53
+RETRO_G054,40,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,40*NH3_Retrofit*54
+RETRO_G055,40,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,40*NH3_Retrofit*55
+RETRO_G056,40,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,40*NH3_Retrofit*56
+RETRO_G057,40,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,40*NH3_Retrofit*57
+RETRO_G186,42,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,42*H2_Retrofit*186
+RETRO_G058,43,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,43*H2_Retrofit*58
+RETRO_G059,43,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,43*H2_Retrofit*59
+RETRO_G060,45,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,45*H2_Retrofit*60
+RETRO_G061,47,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,47*H2_Retrofit*61
+RETRO_G062,47,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,47*H2_Retrofit*62
+RETRO_G063,47,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,47*H2_Retrofit*63
+RETRO_G064,47,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,47*H2_Retrofit*64
+RETRO_G065,47,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,47*H2_Retrofit*65
+RETRO_G066,47,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,47*H2_Retrofit*66
+RETRO_G067,48,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,48*H2_Retrofit*67
+RETRO_G068,48,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,48*H2_Retrofit*68
+RETRO_G069,48,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,48*H2_Retrofit*69
+RETRO_G070,49,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,49*H2_Retrofit*70
+RETRO_G071,53,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,53*H2_Retrofit*71
+RETRO_G072,53,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,53*H2_Retrofit*72
+RETRO_G073,53,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,53*H2_Retrofit*73
+RETRO_G074,53,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,53*H2_Retrofit*74
+RETRO_G075,53,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,53*NH3_Retrofit*75
+RETRO_G076,53,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,53*NH3_Retrofit*76
+RETRO_G077,53,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,53*NH3_Retrofit*77
+RETRO_G078,53,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,53*NH3_Retrofit*78
+RETRO_G079,53,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,53*NH3_Retrofit*79
+RETRO_G080,53,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,53*NH3_Retrofit*80
+RETRO_G081,53,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,53*NH3_Retrofit*81
+RETRO_G082,53,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,53*NH3_Retrofit*82
+RETRO_G083,53,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,53*NH3_Retrofit*83
+RETRO_G084,53,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,53*NH3_Retrofit*84
+RETRO_G085,57,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,57*H2_Retrofit*85
+RETRO_G086,58,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,58*H2_Retrofit*86
+RETRO_G088,59,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,59*NH3_Retrofit*88
+RETRO_G089,59,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,59*NH3_Retrofit*89
+RETRO_G090,59,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,59*NH3_Retrofit*90
+RETRO_G091,59,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,59*NH3_Retrofit*91
+RETRO_G092,59,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,59*NH3_Retrofit*92
+RETRO_G093,59,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,59*NH3_Retrofit*93
+RETRO_G094,59,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,59*NH3_Retrofit*94
+RETRO_G095,59,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,59*NH3_Retrofit*95
+RETRO_G096,59,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,59*NH3_Retrofit*96
+RETRO_G097,59,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,59*NH3_Retrofit*97
+RETRO_G185,60,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,60*H2_Retrofit*185
+RETRO_G098,62,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,62*H2_Retrofit*98
+RETRO_G099,64,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,64*H2_Retrofit*99
+RETRO_G191,64,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,64*H2_Retrofit*191
+RETRO_G100,70,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,70*H2_Retrofit*100
+RETRO_G101,71,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,71*NH3_Retrofit*101
+RETRO_G184,71,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,71*NH3_Retrofit*184
+RETRO_G102,73,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,73*NH3_Retrofit*102
+RETRO_G103,73,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,73*NH3_Retrofit*103
+RETRO_G104,73,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,73*NH3_Retrofit*104
+RETRO_G105,73,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,73*NH3_Retrofit*105
+RETRO_G107,75,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,75*NH3_Retrofit*107
+RETRO_G108,75,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,75*NH3_Retrofit*108
+RETRO_G190,75,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,75*NH3_Retrofit*190
+RETRO_G106,79,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,79*H2_Retrofit*106
+RETRO_G116,87,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,87*H2_Retrofit*116
+RETRO_G117,98,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,98*H2_Retrofit*117
+RETRO_G118,99,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,99*H2_Retrofit*118
+RETRO_G119,100,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,100*H2_Retrofit*119
+RETRO_G120,100,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,100*H2_Retrofit*120
+RETRO_G121,100,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,100*H2_Retrofit*121
+RETRO_G122,100,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,100*NH3_Retrofit*122
+RETRO_G123,100,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,100*NH3_Retrofit*123
+RETRO_G124,100,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,100*NH3_Retrofit*124
+RETRO_G125,100,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,100*NH3_Retrofit*125
+RETRO_G126,100,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,100*NH3_Retrofit*126
+RETRO_G127,100,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,100*NH3_Retrofit*127
+RETRO_G128,100,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,100*NH3_Retrofit*128
+RETRO_G129,100,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,100*NH3_Retrofit*129
+RETRO_G130,106,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,106*NH3_Retrofit*130
+RETRO_G131,108,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,108*H2_Retrofit*131
+RETRO_G138,128,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,128*H2_Retrofit*138
+RETRO_G139,134,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,134*H2_Retrofit*139
+RETRO_G140,134,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,134*H2_Retrofit*140
+RETRO_G141,134,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,134*H2_Retrofit*141
+RETRO_G142,134,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,134*H2_Retrofit*142
+RETRO_G143,137,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,137*NH3_Retrofit*143
+RETRO_G144,137,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,137*NH3_Retrofit*144
+RETRO_G145,156,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,156*H2_Retrofit*145
+RETRO_G192,160,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,160*H2_Retrofit*192
+RETRO_G152,167,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,167*H2_Retrofit*152
+RETRO_G153,167,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,167*H2_Retrofit*153
+RETRO_G154,167,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,167*H2_Retrofit*154
+RETRO_G155,167,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,167*H2_Retrofit*155
+RETRO_G156,167,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,167*H2_Retrofit*156
+RETRO_G194,167,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,167*H2_Retrofit*194
+RETRO_G157,172,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,172*H2_Retrofit*157
+RETRO_G188,172,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,172*H2_Retrofit*188
+RETRO_G165,180,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,180*H2_Retrofit*165
+RETRO_G166,186,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,186*H2_Retrofit*166
+RETRO_G167,186,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,186*H2_Retrofit*167
+RETRO_G168,186,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,186*H2_Retrofit*168
+RETRO_G169,186,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,186*H2_Retrofit*169
+RETRO_G170,190,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,190*NH3_Retrofit*170
+RETRO_G171,190,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,190*NH3_Retrofit*171
+RETRO_G172,190,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,190*NH3_Retrofit*172
+RETRO_G173,190,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,190*NH3_Retrofit*173
+RETRO_G174,190,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,190*NH3_Retrofit*174
+RETRO_G175,190,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,190*NH3_Retrofit*175
+RETRO_G193,192,retrofit,Green-Hydrogen Firing,Retrofit_candidates.csv,192*H2_Retrofit*193
+RETRO_G176,193,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,193*NH3_Retrofit*176
+RETRO_G177,193,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,193*NH3_Retrofit*177
+RETRO_G178,193,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,193*NH3_Retrofit*178
+RETRO_G179,193,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,193*NH3_Retrofit*179
+RETRO_G180,193,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,193*NH3_Retrofit*180
+RETRO_G181,193,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,193*NH3_Retrofit*181
+RETRO_G182,193,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,193*NH3_Retrofit*182
+RETRO_G183,193,retrofit,Coal-Ammonia Co-firing,Retrofit_candidates.csv,193*NH3_Retrofit*183
+EXIST_Solar_B001,1,existing_re,Solar,bpesd2024:renewables_capacity,Solar:1
+CAN_RE_1_Solar_1,1,candidate_re,Solar,RE_candidates.csv,1*Solar*1
+EXIST_Wind_B001,1,existing_re,Wind,bpesd2024:renewables_capacity,Wind:1
+CAN_RE_1_Wind_1,1,candidate_re,Wind,RE_candidates.csv,1*Wind*1
+EXIST_Solar_B002,2,existing_re,Solar,bpesd2024:renewables_capacity,Solar:2
+CAN_RE_2_Solar_1,2,candidate_re,Solar,RE_candidates.csv,2*Solar*1
+EXIST_Wind_B002,2,existing_re,Wind,bpesd2024:renewables_capacity,Wind:2
+CAN_RE_2_Wind_1,2,candidate_re,Wind,RE_candidates.csv,2*Wind*1
+EXIST_Solar_B003,3,existing_re,Solar,bpesd2024:renewables_capacity,Solar:3
+CAN_RE_3_Solar_1,3,candidate_re,Solar,RE_candidates.csv,3*Solar*1
+EXIST_Wind_B003,3,existing_re,Wind,bpesd2024:renewables_capacity,Wind:3
+CAN_RE_3_Wind_1,3,candidate_re,Wind,RE_candidates.csv,3*Wind*1
+EXIST_Solar_B004,4,existing_re,Solar,bpesd2024:renewables_capacity,Solar:4
+CAN_RE_4_Solar_1,4,candidate_re,Solar,RE_candidates.csv,4*Solar*1
+EXIST_Wind_B004,4,existing_re,Wind,bpesd2024:renewables_capacity,Wind:4
+CAN_RE_4_Wind_1,4,candidate_re,Wind,RE_candidates.csv,4*Wind*1
+EXIST_Solar_B005,5,existing_re,Solar,bpesd2024:renewables_capacity,Solar:5
+CAN_RE_5_Solar_1,5,candidate_re,Solar,RE_candidates.csv,5*Solar*1
+EXIST_Wind_B005,5,existing_re,Wind,bpesd2024:renewables_capacity,Wind:5
+CAN_RE_5_Wind_1,5,candidate_re,Wind,RE_candidates.csv,5*Wind*1
+EXIST_Solar_B006,6,existing_re,Solar,bpesd2024:renewables_capacity,Solar:6
+CAN_RE_6_Solar_1,6,candidate_re,Solar,RE_candidates.csv,6*Solar*1
+EXIST_Wind_B006,6,existing_re,Wind,bpesd2024:renewables_capacity,Wind:6
+CAN_RE_6_Wind_1,6,candidate_re,Wind,RE_candidates.csv,6*Wind*1
+EXIST_Solar_B007,7,existing_re,Solar,bpesd2024:renewables_capacity,Solar:7
+CAN_RE_7_Solar_1,7,candidate_re,Solar,RE_candidates.csv,7*Solar*1
+EXIST_Wind_B007,7,existing_re,Wind,bpesd2024:renewables_capacity,Wind:7
+CAN_RE_7_Wind_1,7,candidate_re,Wind,RE_candidates.csv,7*Wind*1
+EXIST_Solar_B008,8,existing_re,Solar,bpesd2024:renewables_capacity,Solar:8
+CAN_RE_8_Solar_1,8,candidate_re,Solar,RE_candidates.csv,8*Solar*1
+EXIST_Wind_B008,8,existing_re,Wind,bpesd2024:renewables_capacity,Wind:8
+CAN_RE_8_Wind_1,8,candidate_re,Wind,RE_candidates.csv,8*Wind*1
+EXIST_Solar_B009,9,existing_re,Solar,bpesd2024:renewables_capacity,Solar:9
+CAN_RE_9_Solar_1,9,candidate_re,Solar,RE_candidates.csv,9*Solar*1
+EXIST_Wind_B009,9,existing_re,Wind,bpesd2024:renewables_capacity,Wind:9
+CAN_RE_9_Wind_1,9,candidate_re,Wind,RE_candidates.csv,9*Wind*1
+EXIST_Solar_B010,10,existing_re,Solar,bpesd2024:renewables_capacity,Solar:10
+CAN_RE_10_Solar_1,10,candidate_re,Solar,RE_candidates.csv,10*Solar*1
+EXIST_Wind_B010,10,existing_re,Wind,bpesd2024:renewables_capacity,Wind:10
+CAN_RE_10_Wind_1,10,candidate_re,Wind,RE_candidates.csv,10*Wind*1
+EXIST_Solar_B011,11,existing_re,Solar,bpesd2024:renewables_capacity,Solar:11
+CAN_RE_11_Solar_1,11,candidate_re,Solar,RE_candidates.csv,11*Solar*1
+EXIST_Wind_B011,11,existing_re,Wind,bpesd2024:renewables_capacity,Wind:11
+CAN_RE_11_Wind_1,11,candidate_re,Wind,RE_candidates.csv,11*Wind*1
+EXIST_Solar_B012,12,existing_re,Solar,bpesd2024:renewables_capacity,Solar:12
+CAN_RE_12_Solar_1,12,candidate_re,Solar,RE_candidates.csv,12*Solar*1
+EXIST_Wind_B012,12,existing_re,Wind,bpesd2024:renewables_capacity,Wind:12
+CAN_RE_12_Wind_1,12,candidate_re,Wind,RE_candidates.csv,12*Wind*1
+EXIST_Solar_B013,13,existing_re,Solar,bpesd2024:renewables_capacity,Solar:13
+CAN_RE_13_Solar_1,13,candidate_re,Solar,RE_candidates.csv,13*Solar*1
+EXIST_Wind_B013,13,existing_re,Wind,bpesd2024:renewables_capacity,Wind:13
+CAN_RE_13_Wind_1,13,candidate_re,Wind,RE_candidates.csv,13*Wind*1
+EXIST_Solar_B014,14,existing_re,Solar,bpesd2024:renewables_capacity,Solar:14
+CAN_RE_14_Solar_1,14,candidate_re,Solar,RE_candidates.csv,14*Solar*1
+EXIST_Wind_B014,14,existing_re,Wind,bpesd2024:renewables_capacity,Wind:14
+CAN_RE_14_Wind_1,14,candidate_re,Wind,RE_candidates.csv,14*Wind*1
+EXIST_Solar_B015,15,existing_re,Solar,bpesd2024:renewables_capacity,Solar:15
+CAN_RE_15_Solar_1,15,candidate_re,Solar,RE_candidates.csv,15*Solar*1
+EXIST_Wind_B015,15,existing_re,Wind,bpesd2024:renewables_capacity,Wind:15
+CAN_RE_15_Wind_1,15,candidate_re,Wind,RE_candidates.csv,15*Wind*1
+EXIST_Solar_B016,16,existing_re,Solar,bpesd2024:renewables_capacity,Solar:16
+CAN_RE_16_Solar_1,16,candidate_re,Solar,RE_candidates.csv,16*Solar*1
+EXIST_Wind_B016,16,existing_re,Wind,bpesd2024:renewables_capacity,Wind:16
+CAN_RE_16_Wind_1,16,candidate_re,Wind,RE_candidates.csv,16*Wind*1
+EXIST_Solar_B017,17,existing_re,Solar,bpesd2024:renewables_capacity,Solar:17
+CAN_RE_17_Solar_1,17,candidate_re,Solar,RE_candidates.csv,17*Solar*1
+EXIST_Wind_B017,17,existing_re,Wind,bpesd2024:renewables_capacity,Wind:17
+CAN_RE_17_Wind_1,17,candidate_re,Wind,RE_candidates.csv,17*Wind*1
+EXIST_Solar_B018,18,existing_re,Solar,bpesd2024:renewables_capacity,Solar:18
+CAN_RE_18_Solar_1,18,candidate_re,Solar,RE_candidates.csv,18*Solar*1
+EXIST_Wind_B018,18,existing_re,Wind,bpesd2024:renewables_capacity,Wind:18
+CAN_RE_18_Wind_1,18,candidate_re,Wind,RE_candidates.csv,18*Wind*1
+EXIST_Solar_B019,19,existing_re,Solar,bpesd2024:renewables_capacity,Solar:19
+CAN_RE_19_Solar_1,19,candidate_re,Solar,RE_candidates.csv,19*Solar*1
+EXIST_Wind_B019,19,existing_re,Wind,bpesd2024:renewables_capacity,Wind:19
+CAN_RE_19_Wind_1,19,candidate_re,Wind,RE_candidates.csv,19*Wind*1
+EXIST_Solar_B020,20,existing_re,Solar,bpesd2024:renewables_capacity,Solar:20
+CAN_RE_20_Solar_1,20,candidate_re,Solar,RE_candidates.csv,20*Solar*1
+EXIST_Wind_B020,20,existing_re,Wind,bpesd2024:renewables_capacity,Wind:20
+CAN_RE_20_Wind_1,20,candidate_re,Wind,RE_candidates.csv,20*Wind*1
+EXIST_Solar_B021,21,existing_re,Solar,bpesd2024:renewables_capacity,Solar:21
+CAN_RE_21_Solar_1,21,candidate_re,Solar,RE_candidates.csv,21*Solar*1
+EXIST_Wind_B021,21,existing_re,Wind,bpesd2024:renewables_capacity,Wind:21
+CAN_RE_21_Wind_1,21,candidate_re,Wind,RE_candidates.csv,21*Wind*1
+EXIST_Solar_B022,22,existing_re,Solar,bpesd2024:renewables_capacity,Solar:22
+CAN_RE_22_Solar_1,22,candidate_re,Solar,RE_candidates.csv,22*Solar*1
+EXIST_Wind_B022,22,existing_re,Wind,bpesd2024:renewables_capacity,Wind:22
+CAN_RE_22_Wind_1,22,candidate_re,Wind,RE_candidates.csv,22*Wind*1
+EXIST_Solar_B023,23,existing_re,Solar,bpesd2024:renewables_capacity,Solar:23
+CAN_RE_23_Solar_1,23,candidate_re,Solar,RE_candidates.csv,23*Solar*1
+EXIST_Wind_B023,23,existing_re,Wind,bpesd2024:renewables_capacity,Wind:23
+CAN_RE_23_Wind_1,23,candidate_re,Wind,RE_candidates.csv,23*Wind*1
+EXIST_Solar_B024,24,existing_re,Solar,bpesd2024:renewables_capacity,Solar:24
+CAN_RE_24_Solar_1,24,candidate_re,Solar,RE_candidates.csv,24*Solar*1
+EXIST_Wind_B024,24,existing_re,Wind,bpesd2024:renewables_capacity,Wind:24
+CAN_RE_24_Wind_1,24,candidate_re,Wind,RE_candidates.csv,24*Wind*1
+EXIST_Solar_B025,25,existing_re,Solar,bpesd2024:renewables_capacity,Solar:25
+CAN_RE_25_Solar_1,25,candidate_re,Solar,RE_candidates.csv,25*Solar*1
+EXIST_Wind_B025,25,existing_re,Wind,bpesd2024:renewables_capacity,Wind:25
+CAN_RE_25_Wind_1,25,candidate_re,Wind,RE_candidates.csv,25*Wind*1
+EXIST_Solar_B026,26,existing_re,Solar,bpesd2024:renewables_capacity,Solar:26
+CAN_RE_26_Solar_1,26,candidate_re,Solar,RE_candidates.csv,26*Solar*1
+EXIST_Wind_B026,26,existing_re,Wind,bpesd2024:renewables_capacity,Wind:26
+CAN_RE_26_Wind_1,26,candidate_re,Wind,RE_candidates.csv,26*Wind*1
+EXIST_Solar_B027,27,existing_re,Solar,bpesd2024:renewables_capacity,Solar:27
+CAN_RE_27_Solar_1,27,candidate_re,Solar,RE_candidates.csv,27*Solar*1
+EXIST_Wind_B027,27,existing_re,Wind,bpesd2024:renewables_capacity,Wind:27
+CAN_RE_27_Wind_1,27,candidate_re,Wind,RE_candidates.csv,27*Wind*1
+EXIST_Solar_B028,28,existing_re,Solar,bpesd2024:renewables_capacity,Solar:28
+CAN_RE_28_Solar_1,28,candidate_re,Solar,RE_candidates.csv,28*Solar*1
+EXIST_Wind_B028,28,existing_re,Wind,bpesd2024:renewables_capacity,Wind:28
+CAN_RE_28_Wind_1,28,candidate_re,Wind,RE_candidates.csv,28*Wind*1
+EXIST_Solar_B029,29,existing_re,Solar,bpesd2024:renewables_capacity,Solar:29
+CAN_RE_29_Solar_1,29,candidate_re,Solar,RE_candidates.csv,29*Solar*1
+EXIST_Wind_B029,29,existing_re,Wind,bpesd2024:renewables_capacity,Wind:29
+CAN_RE_29_Wind_1,29,candidate_re,Wind,RE_candidates.csv,29*Wind*1
+EXIST_Solar_B030,30,existing_re,Solar,bpesd2024:renewables_capacity,Solar:30
+CAN_RE_30_Solar_1,30,candidate_re,Solar,RE_candidates.csv,30*Solar*1
+EXIST_Wind_B030,30,existing_re,Wind,bpesd2024:renewables_capacity,Wind:30
+CAN_RE_30_Wind_1,30,candidate_re,Wind,RE_candidates.csv,30*Wind*1
+EXIST_Solar_B031,31,existing_re,Solar,bpesd2024:renewables_capacity,Solar:31
+CAN_RE_31_Solar_1,31,candidate_re,Solar,RE_candidates.csv,31*Solar*1
+EXIST_Wind_B031,31,existing_re,Wind,bpesd2024:renewables_capacity,Wind:31
+CAN_RE_31_Wind_1,31,candidate_re,Wind,RE_candidates.csv,31*Wind*1
+EXIST_Solar_B032,32,existing_re,Solar,bpesd2024:renewables_capacity,Solar:32
+CAN_RE_32_Solar_1,32,candidate_re,Solar,RE_candidates.csv,32*Solar*1
+EXIST_Wind_B032,32,existing_re,Wind,bpesd2024:renewables_capacity,Wind:32
+CAN_RE_32_Wind_1,32,candidate_re,Wind,RE_candidates.csv,32*Wind*1
+EXIST_Solar_B033,33,existing_re,Solar,bpesd2024:renewables_capacity,Solar:33
+CAN_RE_33_Solar_1,33,candidate_re,Solar,RE_candidates.csv,33*Solar*1
+EXIST_Wind_B033,33,existing_re,Wind,bpesd2024:renewables_capacity,Wind:33
+CAN_RE_33_Wind_1,33,candidate_re,Wind,RE_candidates.csv,33*Wind*1
+EXIST_Solar_B034,34,existing_re,Solar,bpesd2024:renewables_capacity,Solar:34
+CAN_RE_34_Solar_1,34,candidate_re,Solar,RE_candidates.csv,34*Solar*1
+EXIST_Wind_B034,34,existing_re,Wind,bpesd2024:renewables_capacity,Wind:34
+CAN_RE_34_Wind_1,34,candidate_re,Wind,RE_candidates.csv,34*Wind*1
+EXIST_Solar_B035,35,existing_re,Solar,bpesd2024:renewables_capacity,Solar:35
+CAN_RE_35_Solar_1,35,candidate_re,Solar,RE_candidates.csv,35*Solar*1
+EXIST_Wind_B035,35,existing_re,Wind,bpesd2024:renewables_capacity,Wind:35
+CAN_RE_35_Wind_1,35,candidate_re,Wind,RE_candidates.csv,35*Wind*1
+EXIST_Solar_B036,36,existing_re,Solar,bpesd2024:renewables_capacity,Solar:36
+CAN_RE_36_Solar_1,36,candidate_re,Solar,RE_candidates.csv,36*Solar*1
+EXIST_Wind_B036,36,existing_re,Wind,bpesd2024:renewables_capacity,Wind:36
+CAN_RE_36_Wind_1,36,candidate_re,Wind,RE_candidates.csv,36*Wind*1
+EXIST_Solar_B037,37,existing_re,Solar,bpesd2024:renewables_capacity,Solar:37
+CAN_RE_37_Solar_1,37,candidate_re,Solar,RE_candidates.csv,37*Solar*1
+EXIST_Wind_B037,37,existing_re,Wind,bpesd2024:renewables_capacity,Wind:37
+CAN_RE_37_Wind_1,37,candidate_re,Wind,RE_candidates.csv,37*Wind*1
+EXIST_Solar_B038,38,existing_re,Solar,bpesd2024:renewables_capacity,Solar:38
+CAN_RE_38_Solar_1,38,candidate_re,Solar,RE_candidates.csv,38*Solar*1
+EXIST_Wind_B038,38,existing_re,Wind,bpesd2024:renewables_capacity,Wind:38
+CAN_RE_38_Wind_1,38,candidate_re,Wind,RE_candidates.csv,38*Wind*1
+EXIST_Solar_B039,39,existing_re,Solar,bpesd2024:renewables_capacity,Solar:39
+CAN_RE_39_Solar_1,39,candidate_re,Solar,RE_candidates.csv,39*Solar*1
+EXIST_Wind_B039,39,existing_re,Wind,bpesd2024:renewables_capacity,Wind:39
+CAN_RE_39_Wind_1,39,candidate_re,Wind,RE_candidates.csv,39*Wind*1
+EXIST_Solar_B040,40,existing_re,Solar,bpesd2024:renewables_capacity,Solar:40
+CAN_RE_40_Solar_1,40,candidate_re,Solar,RE_candidates.csv,40*Solar*1
+EXIST_Wind_B040,40,existing_re,Wind,bpesd2024:renewables_capacity,Wind:40
+CAN_RE_40_Wind_1,40,candidate_re,Wind,RE_candidates.csv,40*Wind*1
+EXIST_Solar_B041,41,existing_re,Solar,bpesd2024:renewables_capacity,Solar:41
+CAN_RE_41_Solar_1,41,candidate_re,Solar,RE_candidates.csv,41*Solar*1
+EXIST_Wind_B041,41,existing_re,Wind,bpesd2024:renewables_capacity,Wind:41
+CAN_RE_41_Wind_1,41,candidate_re,Wind,RE_candidates.csv,41*Wind*1
+EXIST_Solar_B042,42,existing_re,Solar,bpesd2024:renewables_capacity,Solar:42
+CAN_RE_42_Solar_1,42,candidate_re,Solar,RE_candidates.csv,42*Solar*1
+EXIST_Wind_B042,42,existing_re,Wind,bpesd2024:renewables_capacity,Wind:42
+CAN_RE_42_Wind_1,42,candidate_re,Wind,RE_candidates.csv,42*Wind*1
+EXIST_Solar_B043,43,existing_re,Solar,bpesd2024:renewables_capacity,Solar:43
+CAN_RE_43_Solar_1,43,candidate_re,Solar,RE_candidates.csv,43*Solar*1
+EXIST_Wind_B043,43,existing_re,Wind,bpesd2024:renewables_capacity,Wind:43
+CAN_RE_43_Wind_1,43,candidate_re,Wind,RE_candidates.csv,43*Wind*1
+EXIST_Solar_B044,44,existing_re,Solar,bpesd2024:renewables_capacity,Solar:44
+CAN_RE_44_Solar_1,44,candidate_re,Solar,RE_candidates.csv,44*Solar*1
+EXIST_Wind_B044,44,existing_re,Wind,bpesd2024:renewables_capacity,Wind:44
+CAN_RE_44_Wind_1,44,candidate_re,Wind,RE_candidates.csv,44*Wind*1
+EXIST_Solar_B045,45,existing_re,Solar,bpesd2024:renewables_capacity,Solar:45
+CAN_RE_45_Solar_1,45,candidate_re,Solar,RE_candidates.csv,45*Solar*1
+EXIST_Wind_B045,45,existing_re,Wind,bpesd2024:renewables_capacity,Wind:45
+CAN_RE_45_Wind_1,45,candidate_re,Wind,RE_candidates.csv,45*Wind*1
+EXIST_Solar_B046,46,existing_re,Solar,bpesd2024:renewables_capacity,Solar:46
+CAN_RE_46_Solar_1,46,candidate_re,Solar,RE_candidates.csv,46*Solar*1
+EXIST_Wind_B046,46,existing_re,Wind,bpesd2024:renewables_capacity,Wind:46
+CAN_RE_46_Wind_1,46,candidate_re,Wind,RE_candidates.csv,46*Wind*1
+EXIST_Solar_B047,47,existing_re,Solar,bpesd2024:renewables_capacity,Solar:47
+CAN_RE_47_Solar_1,47,candidate_re,Solar,RE_candidates.csv,47*Solar*1
+EXIST_Wind_B047,47,existing_re,Wind,bpesd2024:renewables_capacity,Wind:47
+CAN_RE_47_Wind_1,47,candidate_re,Wind,RE_candidates.csv,47*Wind*1
+EXIST_Solar_B048,48,existing_re,Solar,bpesd2024:renewables_capacity,Solar:48
+CAN_RE_48_Solar_1,48,candidate_re,Solar,RE_candidates.csv,48*Solar*1
+EXIST_Wind_B048,48,existing_re,Wind,bpesd2024:renewables_capacity,Wind:48
+CAN_RE_48_Wind_1,48,candidate_re,Wind,RE_candidates.csv,48*Wind*1
+EXIST_Solar_B049,49,existing_re,Solar,bpesd2024:renewables_capacity,Solar:49
+CAN_RE_49_Solar_1,49,candidate_re,Solar,RE_candidates.csv,49*Solar*1
+EXIST_Wind_B049,49,existing_re,Wind,bpesd2024:renewables_capacity,Wind:49
+CAN_RE_49_Wind_1,49,candidate_re,Wind,RE_candidates.csv,49*Wind*1
+EXIST_Solar_B050,50,existing_re,Solar,bpesd2024:renewables_capacity,Solar:50
+CAN_RE_50_Solar_1,50,candidate_re,Solar,RE_candidates.csv,50*Solar*1
+EXIST_Wind_B050,50,existing_re,Wind,bpesd2024:renewables_capacity,Wind:50
+CAN_RE_50_Wind_1,50,candidate_re,Wind,RE_candidates.csv,50*Wind*1
+EXIST_Solar_B051,51,existing_re,Solar,bpesd2024:renewables_capacity,Solar:51
+CAN_RE_51_Solar_1,51,candidate_re,Solar,RE_candidates.csv,51*Solar*1
+EXIST_Wind_B051,51,existing_re,Wind,bpesd2024:renewables_capacity,Wind:51
+CAN_RE_51_Wind_1,51,candidate_re,Wind,RE_candidates.csv,51*Wind*1
+EXIST_Solar_B052,52,existing_re,Solar,bpesd2024:renewables_capacity,Solar:52
+CAN_RE_52_Solar_1,52,candidate_re,Solar,RE_candidates.csv,52*Solar*1
+EXIST_Wind_B052,52,existing_re,Wind,bpesd2024:renewables_capacity,Wind:52
+CAN_RE_52_Wind_1,52,candidate_re,Wind,RE_candidates.csv,52*Wind*1
+EXIST_Solar_B053,53,existing_re,Solar,bpesd2024:renewables_capacity,Solar:53
+CAN_RE_53_Solar_1,53,candidate_re,Solar,RE_candidates.csv,53*Solar*1
+EXIST_Wind_B053,53,existing_re,Wind,bpesd2024:renewables_capacity,Wind:53
+CAN_RE_53_Wind_1,53,candidate_re,Wind,RE_candidates.csv,53*Wind*1
+EXIST_Solar_B054,54,existing_re,Solar,bpesd2024:renewables_capacity,Solar:54
+CAN_RE_54_Solar_1,54,candidate_re,Solar,RE_candidates.csv,54*Solar*1
+EXIST_Wind_B054,54,existing_re,Wind,bpesd2024:renewables_capacity,Wind:54
+CAN_RE_54_Wind_1,54,candidate_re,Wind,RE_candidates.csv,54*Wind*1
+EXIST_Solar_B055,55,existing_re,Solar,bpesd2024:renewables_capacity,Solar:55
+CAN_RE_55_Solar_1,55,candidate_re,Solar,RE_candidates.csv,55*Solar*1
+EXIST_Wind_B055,55,existing_re,Wind,bpesd2024:renewables_capacity,Wind:55
+CAN_RE_55_Wind_1,55,candidate_re,Wind,RE_candidates.csv,55*Wind*1
+EXIST_Solar_B056,56,existing_re,Solar,bpesd2024:renewables_capacity,Solar:56
+CAN_RE_56_Solar_1,56,candidate_re,Solar,RE_candidates.csv,56*Solar*1
+EXIST_Wind_B056,56,existing_re,Wind,bpesd2024:renewables_capacity,Wind:56
+CAN_RE_56_Wind_1,56,candidate_re,Wind,RE_candidates.csv,56*Wind*1
+EXIST_Solar_B057,57,existing_re,Solar,bpesd2024:renewables_capacity,Solar:57
+CAN_RE_57_Solar_1,57,candidate_re,Solar,RE_candidates.csv,57*Solar*1
+EXIST_Wind_B057,57,existing_re,Wind,bpesd2024:renewables_capacity,Wind:57
+CAN_RE_57_Wind_1,57,candidate_re,Wind,RE_candidates.csv,57*Wind*1
+EXIST_Solar_B058,58,existing_re,Solar,bpesd2024:renewables_capacity,Solar:58
+CAN_RE_58_Solar_1,58,candidate_re,Solar,RE_candidates.csv,58*Solar*1
+EXIST_Wind_B058,58,existing_re,Wind,bpesd2024:renewables_capacity,Wind:58
+CAN_RE_58_Wind_1,58,candidate_re,Wind,RE_candidates.csv,58*Wind*1
+EXIST_Solar_B059,59,existing_re,Solar,bpesd2024:renewables_capacity,Solar:59
+CAN_RE_59_Solar_1,59,candidate_re,Solar,RE_candidates.csv,59*Solar*1
+EXIST_Wind_B059,59,existing_re,Wind,bpesd2024:renewables_capacity,Wind:59
+CAN_RE_59_Wind_1,59,candidate_re,Wind,RE_candidates.csv,59*Wind*1
+EXIST_Solar_B060,60,existing_re,Solar,bpesd2024:renewables_capacity,Solar:60
+CAN_RE_60_Solar_1,60,candidate_re,Solar,RE_candidates.csv,60*Solar*1
+EXIST_Wind_B060,60,existing_re,Wind,bpesd2024:renewables_capacity,Wind:60
+CAN_RE_60_Wind_1,60,candidate_re,Wind,RE_candidates.csv,60*Wind*1
+EXIST_Solar_B061,61,existing_re,Solar,bpesd2024:renewables_capacity,Solar:61
+CAN_RE_61_Solar_1,61,candidate_re,Solar,RE_candidates.csv,61*Solar*1
+EXIST_Wind_B061,61,existing_re,Wind,bpesd2024:renewables_capacity,Wind:61
+CAN_RE_61_Wind_1,61,candidate_re,Wind,RE_candidates.csv,61*Wind*1
+EXIST_Solar_B062,62,existing_re,Solar,bpesd2024:renewables_capacity,Solar:62
+CAN_RE_62_Solar_1,62,candidate_re,Solar,RE_candidates.csv,62*Solar*1
+EXIST_Wind_B062,62,existing_re,Wind,bpesd2024:renewables_capacity,Wind:62
+CAN_RE_62_Wind_1,62,candidate_re,Wind,RE_candidates.csv,62*Wind*1
+EXIST_Solar_B063,63,existing_re,Solar,bpesd2024:renewables_capacity,Solar:63
+CAN_RE_63_Solar_1,63,candidate_re,Solar,RE_candidates.csv,63*Solar*1
+EXIST_Wind_B063,63,existing_re,Wind,bpesd2024:renewables_capacity,Wind:63
+CAN_RE_63_Wind_1,63,candidate_re,Wind,RE_candidates.csv,63*Wind*1
+EXIST_Solar_B064,64,existing_re,Solar,bpesd2024:renewables_capacity,Solar:64
+CAN_RE_64_Solar_1,64,candidate_re,Solar,RE_candidates.csv,64*Solar*1
+EXIST_Wind_B064,64,existing_re,Wind,bpesd2024:renewables_capacity,Wind:64
+CAN_RE_64_Wind_1,64,candidate_re,Wind,RE_candidates.csv,64*Wind*1
+EXIST_Solar_B065,65,existing_re,Solar,bpesd2024:renewables_capacity,Solar:65
+CAN_RE_65_Solar_1,65,candidate_re,Solar,RE_candidates.csv,65*Solar*1
+EXIST_Wind_B065,65,existing_re,Wind,bpesd2024:renewables_capacity,Wind:65
+CAN_RE_65_Wind_1,65,candidate_re,Wind,RE_candidates.csv,65*Wind*1
+EXIST_Solar_B066,66,existing_re,Solar,bpesd2024:renewables_capacity,Solar:66
+CAN_RE_66_Solar_1,66,candidate_re,Solar,RE_candidates.csv,66*Solar*1
+EXIST_Wind_B066,66,existing_re,Wind,bpesd2024:renewables_capacity,Wind:66
+CAN_RE_66_Wind_1,66,candidate_re,Wind,RE_candidates.csv,66*Wind*1
+EXIST_Solar_B067,67,existing_re,Solar,bpesd2024:renewables_capacity,Solar:67
+CAN_RE_67_Solar_1,67,candidate_re,Solar,RE_candidates.csv,67*Solar*1
+EXIST_Wind_B067,67,existing_re,Wind,bpesd2024:renewables_capacity,Wind:67
+CAN_RE_67_Wind_1,67,candidate_re,Wind,RE_candidates.csv,67*Wind*1
+EXIST_Solar_B068,68,existing_re,Solar,bpesd2024:renewables_capacity,Solar:68
+CAN_RE_68_Solar_1,68,candidate_re,Solar,RE_candidates.csv,68*Solar*1
+EXIST_Wind_B068,68,existing_re,Wind,bpesd2024:renewables_capacity,Wind:68
+CAN_RE_68_Wind_1,68,candidate_re,Wind,RE_candidates.csv,68*Wind*1
+EXIST_Solar_B069,69,existing_re,Solar,bpesd2024:renewables_capacity,Solar:69
+CAN_RE_69_Solar_1,69,candidate_re,Solar,RE_candidates.csv,69*Solar*1
+EXIST_Wind_B069,69,existing_re,Wind,bpesd2024:renewables_capacity,Wind:69
+CAN_RE_69_Wind_1,69,candidate_re,Wind,RE_candidates.csv,69*Wind*1
+EXIST_Solar_B070,70,existing_re,Solar,bpesd2024:renewables_capacity,Solar:70
+CAN_RE_70_Solar_1,70,candidate_re,Solar,RE_candidates.csv,70*Solar*1
+EXIST_Wind_B070,70,existing_re,Wind,bpesd2024:renewables_capacity,Wind:70
+CAN_RE_70_Wind_1,70,candidate_re,Wind,RE_candidates.csv,70*Wind*1
+EXIST_Solar_B071,71,existing_re,Solar,bpesd2024:renewables_capacity,Solar:71
+CAN_RE_71_Solar_1,71,candidate_re,Solar,RE_candidates.csv,71*Solar*1
+EXIST_Wind_B071,71,existing_re,Wind,bpesd2024:renewables_capacity,Wind:71
+CAN_RE_71_Wind_1,71,candidate_re,Wind,RE_candidates.csv,71*Wind*1
+EXIST_Solar_B072,72,existing_re,Solar,bpesd2024:renewables_capacity,Solar:72
+CAN_RE_72_Solar_1,72,candidate_re,Solar,RE_candidates.csv,72*Solar*1
+EXIST_Wind_B072,72,existing_re,Wind,bpesd2024:renewables_capacity,Wind:72
+CAN_RE_72_Wind_1,72,candidate_re,Wind,RE_candidates.csv,72*Wind*1
+EXIST_Solar_B073,73,existing_re,Solar,bpesd2024:renewables_capacity,Solar:73
+CAN_RE_73_Solar_1,73,candidate_re,Solar,RE_candidates.csv,73*Solar*1
+EXIST_Wind_B073,73,existing_re,Wind,bpesd2024:renewables_capacity,Wind:73
+CAN_RE_73_Wind_1,73,candidate_re,Wind,RE_candidates.csv,73*Wind*1
+EXIST_Solar_B074,74,existing_re,Solar,bpesd2024:renewables_capacity,Solar:74
+CAN_RE_74_Solar_1,74,candidate_re,Solar,RE_candidates.csv,74*Solar*1
+EXIST_Wind_B074,74,existing_re,Wind,bpesd2024:renewables_capacity,Wind:74
+CAN_RE_74_Wind_1,74,candidate_re,Wind,RE_candidates.csv,74*Wind*1
+EXIST_Solar_B075,75,existing_re,Solar,bpesd2024:renewables_capacity,Solar:75
+CAN_RE_75_Solar_1,75,candidate_re,Solar,RE_candidates.csv,75*Solar*1
+EXIST_Wind_B075,75,existing_re,Wind,bpesd2024:renewables_capacity,Wind:75
+CAN_RE_75_Wind_1,75,candidate_re,Wind,RE_candidates.csv,75*Wind*1
+EXIST_Solar_B076,76,existing_re,Solar,bpesd2024:renewables_capacity,Solar:76
+CAN_RE_76_Solar_1,76,candidate_re,Solar,RE_candidates.csv,76*Solar*1
+EXIST_Wind_B076,76,existing_re,Wind,bpesd2024:renewables_capacity,Wind:76
+CAN_RE_76_Wind_1,76,candidate_re,Wind,RE_candidates.csv,76*Wind*1
+EXIST_Solar_B077,77,existing_re,Solar,bpesd2024:renewables_capacity,Solar:77
+CAN_RE_77_Solar_1,77,candidate_re,Solar,RE_candidates.csv,77*Solar*1
+EXIST_Wind_B077,77,existing_re,Wind,bpesd2024:renewables_capacity,Wind:77
+CAN_RE_77_Wind_1,77,candidate_re,Wind,RE_candidates.csv,77*Wind*1
+EXIST_Solar_B078,78,existing_re,Solar,bpesd2024:renewables_capacity,Solar:78
+CAN_RE_78_Solar_1,78,candidate_re,Solar,RE_candidates.csv,78*Solar*1
+EXIST_Wind_B078,78,existing_re,Wind,bpesd2024:renewables_capacity,Wind:78
+CAN_RE_78_Wind_1,78,candidate_re,Wind,RE_candidates.csv,78*Wind*1
+EXIST_Solar_B079,79,existing_re,Solar,bpesd2024:renewables_capacity,Solar:79
+CAN_RE_79_Solar_1,79,candidate_re,Solar,RE_candidates.csv,79*Solar*1
+EXIST_Wind_B079,79,existing_re,Wind,bpesd2024:renewables_capacity,Wind:79
+CAN_RE_79_Wind_1,79,candidate_re,Wind,RE_candidates.csv,79*Wind*1
+EXIST_Solar_B080,80,existing_re,Solar,bpesd2024:renewables_capacity,Solar:80
+CAN_RE_80_Solar_1,80,candidate_re,Solar,RE_candidates.csv,80*Solar*1
+EXIST_Wind_B080,80,existing_re,Wind,bpesd2024:renewables_capacity,Wind:80
+CAN_RE_80_Wind_1,80,candidate_re,Wind,RE_candidates.csv,80*Wind*1
+EXIST_Solar_B081,81,existing_re,Solar,bpesd2024:renewables_capacity,Solar:81
+CAN_RE_81_Solar_1,81,candidate_re,Solar,RE_candidates.csv,81*Solar*1
+EXIST_Wind_B081,81,existing_re,Wind,bpesd2024:renewables_capacity,Wind:81
+CAN_RE_81_Wind_1,81,candidate_re,Wind,RE_candidates.csv,81*Wind*1
+EXIST_Solar_B082,82,existing_re,Solar,bpesd2024:renewables_capacity,Solar:82
+CAN_RE_82_Solar_1,82,candidate_re,Solar,RE_candidates.csv,82*Solar*1
+EXIST_Wind_B082,82,existing_re,Wind,bpesd2024:renewables_capacity,Wind:82
+CAN_RE_82_Wind_1,82,candidate_re,Wind,RE_candidates.csv,82*Wind*1
+EXIST_Solar_B083,83,existing_re,Solar,bpesd2024:renewables_capacity,Solar:83
+CAN_RE_83_Solar_1,83,candidate_re,Solar,RE_candidates.csv,83*Solar*1
+EXIST_Wind_B083,83,existing_re,Wind,bpesd2024:renewables_capacity,Wind:83
+CAN_RE_83_Wind_1,83,candidate_re,Wind,RE_candidates.csv,83*Wind*1
+EXIST_Solar_B084,84,existing_re,Solar,bpesd2024:renewables_capacity,Solar:84
+CAN_RE_84_Solar_1,84,candidate_re,Solar,RE_candidates.csv,84*Solar*1
+EXIST_Wind_B084,84,existing_re,Wind,bpesd2024:renewables_capacity,Wind:84
+CAN_RE_84_Wind_1,84,candidate_re,Wind,RE_candidates.csv,84*Wind*1
+EXIST_Solar_B085,85,existing_re,Solar,bpesd2024:renewables_capacity,Solar:85
+CAN_RE_85_Solar_1,85,candidate_re,Solar,RE_candidates.csv,85*Solar*1
+EXIST_Wind_B085,85,existing_re,Wind,bpesd2024:renewables_capacity,Wind:85
+CAN_RE_85_Wind_1,85,candidate_re,Wind,RE_candidates.csv,85*Wind*1
+EXIST_Solar_B086,86,existing_re,Solar,bpesd2024:renewables_capacity,Solar:86
+CAN_RE_86_Solar_1,86,candidate_re,Solar,RE_candidates.csv,86*Solar*1
+EXIST_Wind_B086,86,existing_re,Wind,bpesd2024:renewables_capacity,Wind:86
+CAN_RE_86_Wind_1,86,candidate_re,Wind,RE_candidates.csv,86*Wind*1
+EXIST_Solar_B087,87,existing_re,Solar,bpesd2024:renewables_capacity,Solar:87
+CAN_RE_87_Solar_1,87,candidate_re,Solar,RE_candidates.csv,87*Solar*1
+EXIST_Wind_B087,87,existing_re,Wind,bpesd2024:renewables_capacity,Wind:87
+CAN_RE_87_Wind_1,87,candidate_re,Wind,RE_candidates.csv,87*Wind*1
+EXIST_Solar_B088,88,existing_re,Solar,bpesd2024:renewables_capacity,Solar:88
+CAN_RE_88_Solar_1,88,candidate_re,Solar,RE_candidates.csv,88*Solar*1
+EXIST_Wind_B088,88,existing_re,Wind,bpesd2024:renewables_capacity,Wind:88
+CAN_RE_88_Wind_1,88,candidate_re,Wind,RE_candidates.csv,88*Wind*1
+EXIST_Solar_B089,89,existing_re,Solar,bpesd2024:renewables_capacity,Solar:89
+CAN_RE_89_Solar_1,89,candidate_re,Solar,RE_candidates.csv,89*Solar*1
+EXIST_Wind_B089,89,existing_re,Wind,bpesd2024:renewables_capacity,Wind:89
+CAN_RE_89_Wind_1,89,candidate_re,Wind,RE_candidates.csv,89*Wind*1
+EXIST_Solar_B090,90,existing_re,Solar,bpesd2024:renewables_capacity,Solar:90
+CAN_RE_90_Solar_1,90,candidate_re,Solar,RE_candidates.csv,90*Solar*1
+EXIST_Wind_B090,90,existing_re,Wind,bpesd2024:renewables_capacity,Wind:90
+CAN_RE_90_Wind_1,90,candidate_re,Wind,RE_candidates.csv,90*Wind*1
+EXIST_Solar_B091,91,existing_re,Solar,bpesd2024:renewables_capacity,Solar:91
+CAN_RE_91_Solar_1,91,candidate_re,Solar,RE_candidates.csv,91*Solar*1
+EXIST_Wind_B091,91,existing_re,Wind,bpesd2024:renewables_capacity,Wind:91
+CAN_RE_91_Wind_1,91,candidate_re,Wind,RE_candidates.csv,91*Wind*1
+EXIST_Solar_B092,92,existing_re,Solar,bpesd2024:renewables_capacity,Solar:92
+CAN_RE_92_Solar_1,92,candidate_re,Solar,RE_candidates.csv,92*Solar*1
+EXIST_Wind_B092,92,existing_re,Wind,bpesd2024:renewables_capacity,Wind:92
+CAN_RE_92_Wind_1,92,candidate_re,Wind,RE_candidates.csv,92*Wind*1
+EXIST_Solar_B093,93,existing_re,Solar,bpesd2024:renewables_capacity,Solar:93
+CAN_RE_93_Solar_1,93,candidate_re,Solar,RE_candidates.csv,93*Solar*1
+EXIST_Wind_B093,93,existing_re,Wind,bpesd2024:renewables_capacity,Wind:93
+CAN_RE_93_Wind_1,93,candidate_re,Wind,RE_candidates.csv,93*Wind*1
+EXIST_Solar_B094,94,existing_re,Solar,bpesd2024:renewables_capacity,Solar:94
+CAN_RE_94_Solar_1,94,candidate_re,Solar,RE_candidates.csv,94*Solar*1
+EXIST_Wind_B094,94,existing_re,Wind,bpesd2024:renewables_capacity,Wind:94
+CAN_RE_94_Wind_1,94,candidate_re,Wind,RE_candidates.csv,94*Wind*1
+EXIST_Solar_B095,95,existing_re,Solar,bpesd2024:renewables_capacity,Solar:95
+CAN_RE_95_Solar_1,95,candidate_re,Solar,RE_candidates.csv,95*Solar*1
+EXIST_Wind_B095,95,existing_re,Wind,bpesd2024:renewables_capacity,Wind:95
+CAN_RE_95_Wind_1,95,candidate_re,Wind,RE_candidates.csv,95*Wind*1
+EXIST_Solar_B096,96,existing_re,Solar,bpesd2024:renewables_capacity,Solar:96
+CAN_RE_96_Solar_1,96,candidate_re,Solar,RE_candidates.csv,96*Solar*1
+EXIST_Wind_B096,96,existing_re,Wind,bpesd2024:renewables_capacity,Wind:96
+CAN_RE_96_Wind_1,96,candidate_re,Wind,RE_candidates.csv,96*Wind*1
+EXIST_Solar_B097,97,existing_re,Solar,bpesd2024:renewables_capacity,Solar:97
+CAN_RE_97_Solar_1,97,candidate_re,Solar,RE_candidates.csv,97*Solar*1
+EXIST_Wind_B097,97,existing_re,Wind,bpesd2024:renewables_capacity,Wind:97
+CAN_RE_97_Wind_1,97,candidate_re,Wind,RE_candidates.csv,97*Wind*1
+EXIST_Solar_B098,98,existing_re,Solar,bpesd2024:renewables_capacity,Solar:98
+CAN_RE_98_Solar_1,98,candidate_re,Solar,RE_candidates.csv,98*Solar*1
+EXIST_Wind_B098,98,existing_re,Wind,bpesd2024:renewables_capacity,Wind:98
+CAN_RE_98_Wind_1,98,candidate_re,Wind,RE_candidates.csv,98*Wind*1
+EXIST_Solar_B099,99,existing_re,Solar,bpesd2024:renewables_capacity,Solar:99
+CAN_RE_99_Solar_1,99,candidate_re,Solar,RE_candidates.csv,99*Solar*1
+EXIST_Wind_B099,99,existing_re,Wind,bpesd2024:renewables_capacity,Wind:99
+CAN_RE_99_Wind_1,99,candidate_re,Wind,RE_candidates.csv,99*Wind*1
+EXIST_Solar_B100,100,existing_re,Solar,bpesd2024:renewables_capacity,Solar:100
+CAN_RE_100_Solar_1,100,candidate_re,Solar,RE_candidates.csv,100*Solar*1
+EXIST_Wind_B100,100,existing_re,Wind,bpesd2024:renewables_capacity,Wind:100
+CAN_RE_100_Wind_1,100,candidate_re,Wind,RE_candidates.csv,100*Wind*1
+EXIST_Solar_B101,101,existing_re,Solar,bpesd2024:renewables_capacity,Solar:101
+CAN_RE_101_Solar_1,101,candidate_re,Solar,RE_candidates.csv,101*Solar*1
+EXIST_Wind_B101,101,existing_re,Wind,bpesd2024:renewables_capacity,Wind:101
+CAN_RE_101_Wind_1,101,candidate_re,Wind,RE_candidates.csv,101*Wind*1
+EXIST_Solar_B102,102,existing_re,Solar,bpesd2024:renewables_capacity,Solar:102
+CAN_RE_102_Solar_1,102,candidate_re,Solar,RE_candidates.csv,102*Solar*1
+EXIST_Wind_B102,102,existing_re,Wind,bpesd2024:renewables_capacity,Wind:102
+CAN_RE_102_Wind_1,102,candidate_re,Wind,RE_candidates.csv,102*Wind*1
+EXIST_Solar_B103,103,existing_re,Solar,bpesd2024:renewables_capacity,Solar:103
+CAN_RE_103_Solar_1,103,candidate_re,Solar,RE_candidates.csv,103*Solar*1
+EXIST_Wind_B103,103,existing_re,Wind,bpesd2024:renewables_capacity,Wind:103
+CAN_RE_103_Wind_1,103,candidate_re,Wind,RE_candidates.csv,103*Wind*1
+EXIST_Solar_B104,104,existing_re,Solar,bpesd2024:renewables_capacity,Solar:104
+CAN_RE_104_Solar_1,104,candidate_re,Solar,RE_candidates.csv,104*Solar*1
+EXIST_Wind_B104,104,existing_re,Wind,bpesd2024:renewables_capacity,Wind:104
+CAN_RE_104_Wind_1,104,candidate_re,Wind,RE_candidates.csv,104*Wind*1
+EXIST_Solar_B105,105,existing_re,Solar,bpesd2024:renewables_capacity,Solar:105
+CAN_RE_105_Solar_1,105,candidate_re,Solar,RE_candidates.csv,105*Solar*1
+EXIST_Wind_B105,105,existing_re,Wind,bpesd2024:renewables_capacity,Wind:105
+CAN_RE_105_Wind_1,105,candidate_re,Wind,RE_candidates.csv,105*Wind*1
+EXIST_Solar_B106,106,existing_re,Solar,bpesd2024:renewables_capacity,Solar:106
+CAN_RE_106_Solar_1,106,candidate_re,Solar,RE_candidates.csv,106*Solar*1
+EXIST_Wind_B106,106,existing_re,Wind,bpesd2024:renewables_capacity,Wind:106
+CAN_RE_106_Wind_1,106,candidate_re,Wind,RE_candidates.csv,106*Wind*1
+EXIST_Solar_B107,107,existing_re,Solar,bpesd2024:renewables_capacity,Solar:107
+CAN_RE_107_Solar_1,107,candidate_re,Solar,RE_candidates.csv,107*Solar*1
+EXIST_Wind_B107,107,existing_re,Wind,bpesd2024:renewables_capacity,Wind:107
+CAN_RE_107_Wind_1,107,candidate_re,Wind,RE_candidates.csv,107*Wind*1
+EXIST_Solar_B108,108,existing_re,Solar,bpesd2024:renewables_capacity,Solar:108
+CAN_RE_108_Solar_1,108,candidate_re,Solar,RE_candidates.csv,108*Solar*1
+EXIST_Wind_B108,108,existing_re,Wind,bpesd2024:renewables_capacity,Wind:108
+CAN_RE_108_Wind_1,108,candidate_re,Wind,RE_candidates.csv,108*Wind*1
+EXIST_Solar_B109,109,existing_re,Solar,bpesd2024:renewables_capacity,Solar:109
+CAN_RE_109_Solar_1,109,candidate_re,Solar,RE_candidates.csv,109*Solar*1
+EXIST_Wind_B109,109,existing_re,Wind,bpesd2024:renewables_capacity,Wind:109
+CAN_RE_109_Wind_1,109,candidate_re,Wind,RE_candidates.csv,109*Wind*1
+EXIST_Solar_B110,110,existing_re,Solar,bpesd2024:renewables_capacity,Solar:110
+CAN_RE_110_Solar_1,110,candidate_re,Solar,RE_candidates.csv,110*Solar*1
+EXIST_Wind_B110,110,existing_re,Wind,bpesd2024:renewables_capacity,Wind:110
+CAN_RE_110_Wind_1,110,candidate_re,Wind,RE_candidates.csv,110*Wind*1
+EXIST_Solar_B111,111,existing_re,Solar,bpesd2024:renewables_capacity,Solar:111
+CAN_RE_111_Solar_1,111,candidate_re,Solar,RE_candidates.csv,111*Solar*1
+EXIST_Wind_B111,111,existing_re,Wind,bpesd2024:renewables_capacity,Wind:111
+CAN_RE_111_Wind_1,111,candidate_re,Wind,RE_candidates.csv,111*Wind*1
+EXIST_Solar_B112,112,existing_re,Solar,bpesd2024:renewables_capacity,Solar:112
+CAN_RE_112_Solar_1,112,candidate_re,Solar,RE_candidates.csv,112*Solar*1
+EXIST_Wind_B112,112,existing_re,Wind,bpesd2024:renewables_capacity,Wind:112
+CAN_RE_112_Wind_1,112,candidate_re,Wind,RE_candidates.csv,112*Wind*1
+EXIST_Solar_B113,113,existing_re,Solar,bpesd2024:renewables_capacity,Solar:113
+CAN_RE_113_Solar_1,113,candidate_re,Solar,RE_candidates.csv,113*Solar*1
+EXIST_Wind_B113,113,existing_re,Wind,bpesd2024:renewables_capacity,Wind:113
+CAN_RE_113_Wind_1,113,candidate_re,Wind,RE_candidates.csv,113*Wind*1
+EXIST_Solar_B114,114,existing_re,Solar,bpesd2024:renewables_capacity,Solar:114
+CAN_RE_114_Solar_1,114,candidate_re,Solar,RE_candidates.csv,114*Solar*1
+EXIST_Wind_B114,114,existing_re,Wind,bpesd2024:renewables_capacity,Wind:114
+CAN_RE_114_Wind_1,114,candidate_re,Wind,RE_candidates.csv,114*Wind*1
+EXIST_Solar_B115,115,existing_re,Solar,bpesd2024:renewables_capacity,Solar:115
+CAN_RE_115_Solar_1,115,candidate_re,Solar,RE_candidates.csv,115*Solar*1
+EXIST_Wind_B115,115,existing_re,Wind,bpesd2024:renewables_capacity,Wind:115
+CAN_RE_115_Wind_1,115,candidate_re,Wind,RE_candidates.csv,115*Wind*1
+EXIST_Solar_B116,116,existing_re,Solar,bpesd2024:renewables_capacity,Solar:116
+CAN_RE_116_Solar_1,116,candidate_re,Solar,RE_candidates.csv,116*Solar*1
+EXIST_Wind_B116,116,existing_re,Wind,bpesd2024:renewables_capacity,Wind:116
+CAN_RE_116_Wind_1,116,candidate_re,Wind,RE_candidates.csv,116*Wind*1
+EXIST_Solar_B117,117,existing_re,Solar,bpesd2024:renewables_capacity,Solar:117
+CAN_RE_117_Solar_1,117,candidate_re,Solar,RE_candidates.csv,117*Solar*1
+EXIST_Wind_B117,117,existing_re,Wind,bpesd2024:renewables_capacity,Wind:117
+CAN_RE_117_Wind_1,117,candidate_re,Wind,RE_candidates.csv,117*Wind*1
+EXIST_Solar_B118,118,existing_re,Solar,bpesd2024:renewables_capacity,Solar:118
+CAN_RE_118_Solar_1,118,candidate_re,Solar,RE_candidates.csv,118*Solar*1
+EXIST_Wind_B118,118,existing_re,Wind,bpesd2024:renewables_capacity,Wind:118
+CAN_RE_118_Wind_1,118,candidate_re,Wind,RE_candidates.csv,118*Wind*1
+EXIST_Solar_B119,119,existing_re,Solar,bpesd2024:renewables_capacity,Solar:119
+CAN_RE_119_Solar_1,119,candidate_re,Solar,RE_candidates.csv,119*Solar*1
+EXIST_Wind_B119,119,existing_re,Wind,bpesd2024:renewables_capacity,Wind:119
+CAN_RE_119_Wind_1,119,candidate_re,Wind,RE_candidates.csv,119*Wind*1
+EXIST_Solar_B120,120,existing_re,Solar,bpesd2024:renewables_capacity,Solar:120
+CAN_RE_120_Solar_1,120,candidate_re,Solar,RE_candidates.csv,120*Solar*1
+EXIST_Wind_B120,120,existing_re,Wind,bpesd2024:renewables_capacity,Wind:120
+CAN_RE_120_Wind_1,120,candidate_re,Wind,RE_candidates.csv,120*Wind*1
+EXIST_Solar_B121,121,existing_re,Solar,bpesd2024:renewables_capacity,Solar:121
+CAN_RE_121_Solar_1,121,candidate_re,Solar,RE_candidates.csv,121*Solar*1
+EXIST_Wind_B121,121,existing_re,Wind,bpesd2024:renewables_capacity,Wind:121
+CAN_RE_121_Wind_1,121,candidate_re,Wind,RE_candidates.csv,121*Wind*1
+EXIST_Solar_B122,122,existing_re,Solar,bpesd2024:renewables_capacity,Solar:122
+CAN_RE_122_Solar_1,122,candidate_re,Solar,RE_candidates.csv,122*Solar*1
+EXIST_Wind_B122,122,existing_re,Wind,bpesd2024:renewables_capacity,Wind:122
+CAN_RE_122_Wind_1,122,candidate_re,Wind,RE_candidates.csv,122*Wind*1
+EXIST_Solar_B123,123,existing_re,Solar,bpesd2024:renewables_capacity,Solar:123
+CAN_RE_123_Solar_1,123,candidate_re,Solar,RE_candidates.csv,123*Solar*1
+EXIST_Wind_B123,123,existing_re,Wind,bpesd2024:renewables_capacity,Wind:123
+CAN_RE_123_Wind_1,123,candidate_re,Wind,RE_candidates.csv,123*Wind*1
+EXIST_Solar_B124,124,existing_re,Solar,bpesd2024:renewables_capacity,Solar:124
+CAN_RE_124_Solar_1,124,candidate_re,Solar,RE_candidates.csv,124*Solar*1
+EXIST_Wind_B124,124,existing_re,Wind,bpesd2024:renewables_capacity,Wind:124
+CAN_RE_124_Wind_1,124,candidate_re,Wind,RE_candidates.csv,124*Wind*1
+EXIST_Solar_B125,125,existing_re,Solar,bpesd2024:renewables_capacity,Solar:125
+CAN_RE_125_Solar_1,125,candidate_re,Solar,RE_candidates.csv,125*Solar*1
+EXIST_Wind_B125,125,existing_re,Wind,bpesd2024:renewables_capacity,Wind:125
+CAN_RE_125_Wind_1,125,candidate_re,Wind,RE_candidates.csv,125*Wind*1
+EXIST_Solar_B126,126,existing_re,Solar,bpesd2024:renewables_capacity,Solar:126
+CAN_RE_126_Solar_1,126,candidate_re,Solar,RE_candidates.csv,126*Solar*1
+EXIST_Wind_B126,126,existing_re,Wind,bpesd2024:renewables_capacity,Wind:126
+CAN_RE_126_Wind_1,126,candidate_re,Wind,RE_candidates.csv,126*Wind*1
+EXIST_Solar_B127,127,existing_re,Solar,bpesd2024:renewables_capacity,Solar:127
+CAN_RE_127_Solar_1,127,candidate_re,Solar,RE_candidates.csv,127*Solar*1
+EXIST_Wind_B127,127,existing_re,Wind,bpesd2024:renewables_capacity,Wind:127
+CAN_RE_127_Wind_1,127,candidate_re,Wind,RE_candidates.csv,127*Wind*1
+EXIST_Solar_B128,128,existing_re,Solar,bpesd2024:renewables_capacity,Solar:128
+CAN_RE_128_Solar_1,128,candidate_re,Solar,RE_candidates.csv,128*Solar*1
+EXIST_Wind_B128,128,existing_re,Wind,bpesd2024:renewables_capacity,Wind:128
+CAN_RE_128_Wind_1,128,candidate_re,Wind,RE_candidates.csv,128*Wind*1
+EXIST_Solar_B129,129,existing_re,Solar,bpesd2024:renewables_capacity,Solar:129
+CAN_RE_129_Solar_1,129,candidate_re,Solar,RE_candidates.csv,129*Solar*1
+EXIST_Wind_B129,129,existing_re,Wind,bpesd2024:renewables_capacity,Wind:129
+CAN_RE_129_Wind_1,129,candidate_re,Wind,RE_candidates.csv,129*Wind*1
+EXIST_Solar_B130,130,existing_re,Solar,bpesd2024:renewables_capacity,Solar:130
+CAN_RE_130_Solar_1,130,candidate_re,Solar,RE_candidates.csv,130*Solar*1
+EXIST_Wind_B130,130,existing_re,Wind,bpesd2024:renewables_capacity,Wind:130
+CAN_RE_130_Wind_1,130,candidate_re,Wind,RE_candidates.csv,130*Wind*1
+EXIST_Solar_B131,131,existing_re,Solar,bpesd2024:renewables_capacity,Solar:131
+CAN_RE_131_Solar_1,131,candidate_re,Solar,RE_candidates.csv,131*Solar*1
+EXIST_Wind_B131,131,existing_re,Wind,bpesd2024:renewables_capacity,Wind:131
+CAN_RE_131_Wind_1,131,candidate_re,Wind,RE_candidates.csv,131*Wind*1
+EXIST_Solar_B132,132,existing_re,Solar,bpesd2024:renewables_capacity,Solar:132
+CAN_RE_132_Solar_1,132,candidate_re,Solar,RE_candidates.csv,132*Solar*1
+EXIST_Wind_B132,132,existing_re,Wind,bpesd2024:renewables_capacity,Wind:132
+CAN_RE_132_Wind_1,132,candidate_re,Wind,RE_candidates.csv,132*Wind*1
+EXIST_Solar_B133,133,existing_re,Solar,bpesd2024:renewables_capacity,Solar:133
+CAN_RE_133_Solar_1,133,candidate_re,Solar,RE_candidates.csv,133*Solar*1
+EXIST_Wind_B133,133,existing_re,Wind,bpesd2024:renewables_capacity,Wind:133
+CAN_RE_133_Wind_1,133,candidate_re,Wind,RE_candidates.csv,133*Wind*1
+EXIST_Solar_B134,134,existing_re,Solar,bpesd2024:renewables_capacity,Solar:134
+CAN_RE_134_Solar_1,134,candidate_re,Solar,RE_candidates.csv,134*Solar*1
+EXIST_Wind_B134,134,existing_re,Wind,bpesd2024:renewables_capacity,Wind:134
+CAN_RE_134_Wind_1,134,candidate_re,Wind,RE_candidates.csv,134*Wind*1
+EXIST_Solar_B135,135,existing_re,Solar,bpesd2024:renewables_capacity,Solar:135
+CAN_RE_135_Solar_1,135,candidate_re,Solar,RE_candidates.csv,135*Solar*1
+EXIST_Wind_B135,135,existing_re,Wind,bpesd2024:renewables_capacity,Wind:135
+CAN_RE_135_Wind_1,135,candidate_re,Wind,RE_candidates.csv,135*Wind*1
+EXIST_Solar_B136,136,existing_re,Solar,bpesd2024:renewables_capacity,Solar:136
+CAN_RE_136_Solar_1,136,candidate_re,Solar,RE_candidates.csv,136*Solar*1
+EXIST_Wind_B136,136,existing_re,Wind,bpesd2024:renewables_capacity,Wind:136
+CAN_RE_136_Wind_1,136,candidate_re,Wind,RE_candidates.csv,136*Wind*1
+EXIST_Solar_B137,137,existing_re,Solar,bpesd2024:renewables_capacity,Solar:137
+CAN_RE_137_Solar_1,137,candidate_re,Solar,RE_candidates.csv,137*Solar*1
+EXIST_Wind_B137,137,existing_re,Wind,bpesd2024:renewables_capacity,Wind:137
+CAN_RE_137_Wind_1,137,candidate_re,Wind,RE_candidates.csv,137*Wind*1
+EXIST_Solar_B138,138,existing_re,Solar,bpesd2024:renewables_capacity,Solar:138
+CAN_RE_138_Solar_1,138,candidate_re,Solar,RE_candidates.csv,138*Solar*1
+EXIST_Wind_B138,138,existing_re,Wind,bpesd2024:renewables_capacity,Wind:138
+CAN_RE_138_Wind_1,138,candidate_re,Wind,RE_candidates.csv,138*Wind*1
+EXIST_Solar_B139,139,existing_re,Solar,bpesd2024:renewables_capacity,Solar:139
+CAN_RE_139_Solar_1,139,candidate_re,Solar,RE_candidates.csv,139*Solar*1
+EXIST_Wind_B139,139,existing_re,Wind,bpesd2024:renewables_capacity,Wind:139
+CAN_RE_139_Wind_1,139,candidate_re,Wind,RE_candidates.csv,139*Wind*1
+EXIST_Solar_B140,140,existing_re,Solar,bpesd2024:renewables_capacity,Solar:140
+CAN_RE_140_Solar_1,140,candidate_re,Solar,RE_candidates.csv,140*Solar*1
+EXIST_Wind_B140,140,existing_re,Wind,bpesd2024:renewables_capacity,Wind:140
+CAN_RE_140_Wind_1,140,candidate_re,Wind,RE_candidates.csv,140*Wind*1
+EXIST_Solar_B141,141,existing_re,Solar,bpesd2024:renewables_capacity,Solar:141
+CAN_RE_141_Solar_1,141,candidate_re,Solar,RE_candidates.csv,141*Solar*1
+EXIST_Wind_B141,141,existing_re,Wind,bpesd2024:renewables_capacity,Wind:141
+CAN_RE_141_Wind_1,141,candidate_re,Wind,RE_candidates.csv,141*Wind*1
+EXIST_Solar_B142,142,existing_re,Solar,bpesd2024:renewables_capacity,Solar:142
+CAN_RE_142_Solar_1,142,candidate_re,Solar,RE_candidates.csv,142*Solar*1
+EXIST_Wind_B142,142,existing_re,Wind,bpesd2024:renewables_capacity,Wind:142
+CAN_RE_142_Wind_1,142,candidate_re,Wind,RE_candidates.csv,142*Wind*1
+EXIST_Solar_B143,143,existing_re,Solar,bpesd2024:renewables_capacity,Solar:143
+CAN_RE_143_Solar_1,143,candidate_re,Solar,RE_candidates.csv,143*Solar*1
+EXIST_Wind_B143,143,existing_re,Wind,bpesd2024:renewables_capacity,Wind:143
+CAN_RE_143_Wind_1,143,candidate_re,Wind,RE_candidates.csv,143*Wind*1
+EXIST_Solar_B144,144,existing_re,Solar,bpesd2024:renewables_capacity,Solar:144
+CAN_RE_144_Solar_1,144,candidate_re,Solar,RE_candidates.csv,144*Solar*1
+EXIST_Wind_B144,144,existing_re,Wind,bpesd2024:renewables_capacity,Wind:144
+CAN_RE_144_Wind_1,144,candidate_re,Wind,RE_candidates.csv,144*Wind*1
+EXIST_Solar_B145,145,existing_re,Solar,bpesd2024:renewables_capacity,Solar:145
+CAN_RE_145_Solar_1,145,candidate_re,Solar,RE_candidates.csv,145*Solar*1
+EXIST_Wind_B145,145,existing_re,Wind,bpesd2024:renewables_capacity,Wind:145
+CAN_RE_145_Wind_1,145,candidate_re,Wind,RE_candidates.csv,145*Wind*1
+EXIST_Solar_B146,146,existing_re,Solar,bpesd2024:renewables_capacity,Solar:146
+CAN_RE_146_Solar_1,146,candidate_re,Solar,RE_candidates.csv,146*Solar*1
+EXIST_Wind_B146,146,existing_re,Wind,bpesd2024:renewables_capacity,Wind:146
+CAN_RE_146_Wind_1,146,candidate_re,Wind,RE_candidates.csv,146*Wind*1
+EXIST_Solar_B147,147,existing_re,Solar,bpesd2024:renewables_capacity,Solar:147
+CAN_RE_147_Solar_1,147,candidate_re,Solar,RE_candidates.csv,147*Solar*1
+EXIST_Wind_B147,147,existing_re,Wind,bpesd2024:renewables_capacity,Wind:147
+CAN_RE_147_Wind_1,147,candidate_re,Wind,RE_candidates.csv,147*Wind*1
+EXIST_Solar_B148,148,existing_re,Solar,bpesd2024:renewables_capacity,Solar:148
+CAN_RE_148_Solar_1,148,candidate_re,Solar,RE_candidates.csv,148*Solar*1
+EXIST_Wind_B148,148,existing_re,Wind,bpesd2024:renewables_capacity,Wind:148
+CAN_RE_148_Wind_1,148,candidate_re,Wind,RE_candidates.csv,148*Wind*1
+EXIST_Solar_B149,149,existing_re,Solar,bpesd2024:renewables_capacity,Solar:149
+CAN_RE_149_Solar_1,149,candidate_re,Solar,RE_candidates.csv,149*Solar*1
+EXIST_Wind_B149,149,existing_re,Wind,bpesd2024:renewables_capacity,Wind:149
+CAN_RE_149_Wind_1,149,candidate_re,Wind,RE_candidates.csv,149*Wind*1
+EXIST_Solar_B150,150,existing_re,Solar,bpesd2024:renewables_capacity,Solar:150
+CAN_RE_150_Solar_1,150,candidate_re,Solar,RE_candidates.csv,150*Solar*1
+EXIST_Wind_B150,150,existing_re,Wind,bpesd2024:renewables_capacity,Wind:150
+CAN_RE_150_Wind_1,150,candidate_re,Wind,RE_candidates.csv,150*Wind*1
+EXIST_Solar_B151,151,existing_re,Solar,bpesd2024:renewables_capacity,Solar:151
+CAN_RE_151_Solar_1,151,candidate_re,Solar,RE_candidates.csv,151*Solar*1
+EXIST_Wind_B151,151,existing_re,Wind,bpesd2024:renewables_capacity,Wind:151
+CAN_RE_151_Wind_1,151,candidate_re,Wind,RE_candidates.csv,151*Wind*1
+EXIST_Solar_B152,152,existing_re,Solar,bpesd2024:renewables_capacity,Solar:152
+CAN_RE_152_Solar_1,152,candidate_re,Solar,RE_candidates.csv,152*Solar*1
+EXIST_Wind_B152,152,existing_re,Wind,bpesd2024:renewables_capacity,Wind:152
+CAN_RE_152_Wind_1,152,candidate_re,Wind,RE_candidates.csv,152*Wind*1
+EXIST_Solar_B153,153,existing_re,Solar,bpesd2024:renewables_capacity,Solar:153
+CAN_RE_153_Solar_1,153,candidate_re,Solar,RE_candidates.csv,153*Solar*1
+EXIST_Wind_B153,153,existing_re,Wind,bpesd2024:renewables_capacity,Wind:153
+CAN_RE_153_Wind_1,153,candidate_re,Wind,RE_candidates.csv,153*Wind*1
+EXIST_Solar_B154,154,existing_re,Solar,bpesd2024:renewables_capacity,Solar:154
+CAN_RE_154_Solar_1,154,candidate_re,Solar,RE_candidates.csv,154*Solar*1
+EXIST_Wind_B154,154,existing_re,Wind,bpesd2024:renewables_capacity,Wind:154
+CAN_RE_154_Wind_1,154,candidate_re,Wind,RE_candidates.csv,154*Wind*1
+EXIST_Solar_B155,155,existing_re,Solar,bpesd2024:renewables_capacity,Solar:155
+CAN_RE_155_Solar_1,155,candidate_re,Solar,RE_candidates.csv,155*Solar*1
+EXIST_Wind_B155,155,existing_re,Wind,bpesd2024:renewables_capacity,Wind:155
+CAN_RE_155_Wind_1,155,candidate_re,Wind,RE_candidates.csv,155*Wind*1
+EXIST_Solar_B156,156,existing_re,Solar,bpesd2024:renewables_capacity,Solar:156
+CAN_RE_156_Solar_1,156,candidate_re,Solar,RE_candidates.csv,156*Solar*1
+EXIST_Wind_B156,156,existing_re,Wind,bpesd2024:renewables_capacity,Wind:156
+CAN_RE_156_Wind_1,156,candidate_re,Wind,RE_candidates.csv,156*Wind*1
+EXIST_Solar_B157,157,existing_re,Solar,bpesd2024:renewables_capacity,Solar:157
+CAN_RE_157_Solar_1,157,candidate_re,Solar,RE_candidates.csv,157*Solar*1
+EXIST_Wind_B157,157,existing_re,Wind,bpesd2024:renewables_capacity,Wind:157
+CAN_RE_157_Wind_1,157,candidate_re,Wind,RE_candidates.csv,157*Wind*1
+EXIST_Solar_B158,158,existing_re,Solar,bpesd2024:renewables_capacity,Solar:158
+CAN_RE_158_Solar_1,158,candidate_re,Solar,RE_candidates.csv,158*Solar*1
+EXIST_Wind_B158,158,existing_re,Wind,bpesd2024:renewables_capacity,Wind:158
+CAN_RE_158_Wind_1,158,candidate_re,Wind,RE_candidates.csv,158*Wind*1
+EXIST_Solar_B159,159,existing_re,Solar,bpesd2024:renewables_capacity,Solar:159
+CAN_RE_159_Solar_1,159,candidate_re,Solar,RE_candidates.csv,159*Solar*1
+EXIST_Wind_B159,159,existing_re,Wind,bpesd2024:renewables_capacity,Wind:159
+CAN_RE_159_Wind_1,159,candidate_re,Wind,RE_candidates.csv,159*Wind*1
+EXIST_Solar_B160,160,existing_re,Solar,bpesd2024:renewables_capacity,Solar:160
+CAN_RE_160_Solar_1,160,candidate_re,Solar,RE_candidates.csv,160*Solar*1
+EXIST_Wind_B160,160,existing_re,Wind,bpesd2024:renewables_capacity,Wind:160
+CAN_RE_160_Wind_1,160,candidate_re,Wind,RE_candidates.csv,160*Wind*1
+EXIST_Solar_B161,161,existing_re,Solar,bpesd2024:renewables_capacity,Solar:161
+CAN_RE_161_Solar_1,161,candidate_re,Solar,RE_candidates.csv,161*Solar*1
+EXIST_Wind_B161,161,existing_re,Wind,bpesd2024:renewables_capacity,Wind:161
+CAN_RE_161_Wind_1,161,candidate_re,Wind,RE_candidates.csv,161*Wind*1
+EXIST_Solar_B162,162,existing_re,Solar,bpesd2024:renewables_capacity,Solar:162
+CAN_RE_162_Solar_1,162,candidate_re,Solar,RE_candidates.csv,162*Solar*1
+EXIST_Wind_B162,162,existing_re,Wind,bpesd2024:renewables_capacity,Wind:162
+CAN_RE_162_Wind_1,162,candidate_re,Wind,RE_candidates.csv,162*Wind*1
+EXIST_Solar_B163,163,existing_re,Solar,bpesd2024:renewables_capacity,Solar:163
+CAN_RE_163_Solar_1,163,candidate_re,Solar,RE_candidates.csv,163*Solar*1
+EXIST_Wind_B163,163,existing_re,Wind,bpesd2024:renewables_capacity,Wind:163
+CAN_RE_163_Wind_1,163,candidate_re,Wind,RE_candidates.csv,163*Wind*1
+EXIST_Solar_B164,164,existing_re,Solar,bpesd2024:renewables_capacity,Solar:164
+CAN_RE_164_Solar_1,164,candidate_re,Solar,RE_candidates.csv,164*Solar*1
+EXIST_Wind_B164,164,existing_re,Wind,bpesd2024:renewables_capacity,Wind:164
+CAN_RE_164_Wind_1,164,candidate_re,Wind,RE_candidates.csv,164*Wind*1
+EXIST_Solar_B165,165,existing_re,Solar,bpesd2024:renewables_capacity,Solar:165
+CAN_RE_165_Solar_1,165,candidate_re,Solar,RE_candidates.csv,165*Solar*1
+EXIST_Wind_B165,165,existing_re,Wind,bpesd2024:renewables_capacity,Wind:165
+CAN_RE_165_Wind_1,165,candidate_re,Wind,RE_candidates.csv,165*Wind*1
+EXIST_Solar_B166,166,existing_re,Solar,bpesd2024:renewables_capacity,Solar:166
+CAN_RE_166_Solar_1,166,candidate_re,Solar,RE_candidates.csv,166*Solar*1
+EXIST_Wind_B166,166,existing_re,Wind,bpesd2024:renewables_capacity,Wind:166
+CAN_RE_166_Wind_1,166,candidate_re,Wind,RE_candidates.csv,166*Wind*1
+EXIST_Solar_B167,167,existing_re,Solar,bpesd2024:renewables_capacity,Solar:167
+CAN_RE_167_Solar_1,167,candidate_re,Solar,RE_candidates.csv,167*Solar*1
+EXIST_Wind_B167,167,existing_re,Wind,bpesd2024:renewables_capacity,Wind:167
+CAN_RE_167_Wind_1,167,candidate_re,Wind,RE_candidates.csv,167*Wind*1
+EXIST_Solar_B168,168,existing_re,Solar,bpesd2024:renewables_capacity,Solar:168
+CAN_RE_168_Solar_1,168,candidate_re,Solar,RE_candidates.csv,168*Solar*1
+EXIST_Wind_B168,168,existing_re,Wind,bpesd2024:renewables_capacity,Wind:168
+CAN_RE_168_Wind_1,168,candidate_re,Wind,RE_candidates.csv,168*Wind*1
+EXIST_Solar_B169,169,existing_re,Solar,bpesd2024:renewables_capacity,Solar:169
+CAN_RE_169_Solar_1,169,candidate_re,Solar,RE_candidates.csv,169*Solar*1
+EXIST_Wind_B169,169,existing_re,Wind,bpesd2024:renewables_capacity,Wind:169
+CAN_RE_169_Wind_1,169,candidate_re,Wind,RE_candidates.csv,169*Wind*1
+EXIST_Solar_B170,170,existing_re,Solar,bpesd2024:renewables_capacity,Solar:170
+CAN_RE_170_Solar_1,170,candidate_re,Solar,RE_candidates.csv,170*Solar*1
+EXIST_Wind_B170,170,existing_re,Wind,bpesd2024:renewables_capacity,Wind:170
+CAN_RE_170_Wind_1,170,candidate_re,Wind,RE_candidates.csv,170*Wind*1
+EXIST_Solar_B171,171,existing_re,Solar,bpesd2024:renewables_capacity,Solar:171
+CAN_RE_171_Solar_1,171,candidate_re,Solar,RE_candidates.csv,171*Solar*1
+EXIST_Wind_B171,171,existing_re,Wind,bpesd2024:renewables_capacity,Wind:171
+CAN_RE_171_Wind_1,171,candidate_re,Wind,RE_candidates.csv,171*Wind*1
+EXIST_Solar_B172,172,existing_re,Solar,bpesd2024:renewables_capacity,Solar:172
+CAN_RE_172_Solar_1,172,candidate_re,Solar,RE_candidates.csv,172*Solar*1
+EXIST_Wind_B172,172,existing_re,Wind,bpesd2024:renewables_capacity,Wind:172
+CAN_RE_172_Wind_1,172,candidate_re,Wind,RE_candidates.csv,172*Wind*1
+EXIST_Solar_B173,173,existing_re,Solar,bpesd2024:renewables_capacity,Solar:173
+CAN_RE_173_Solar_1,173,candidate_re,Solar,RE_candidates.csv,173*Solar*1
+EXIST_Wind_B173,173,existing_re,Wind,bpesd2024:renewables_capacity,Wind:173
+CAN_RE_173_Wind_1,173,candidate_re,Wind,RE_candidates.csv,173*Wind*1
+EXIST_Solar_B174,174,existing_re,Solar,bpesd2024:renewables_capacity,Solar:174
+CAN_RE_174_Solar_1,174,candidate_re,Solar,RE_candidates.csv,174*Solar*1
+EXIST_Wind_B174,174,existing_re,Wind,bpesd2024:renewables_capacity,Wind:174
+CAN_RE_174_Wind_1,174,candidate_re,Wind,RE_candidates.csv,174*Wind*1
+EXIST_Solar_B175,175,existing_re,Solar,bpesd2024:renewables_capacity,Solar:175
+CAN_RE_175_Solar_1,175,candidate_re,Solar,RE_candidates.csv,175*Solar*1
+EXIST_Wind_B175,175,existing_re,Wind,bpesd2024:renewables_capacity,Wind:175
+CAN_RE_175_Wind_1,175,candidate_re,Wind,RE_candidates.csv,175*Wind*1
+EXIST_Solar_B176,176,existing_re,Solar,bpesd2024:renewables_capacity,Solar:176
+CAN_RE_176_Solar_1,176,candidate_re,Solar,RE_candidates.csv,176*Solar*1
+EXIST_Wind_B176,176,existing_re,Wind,bpesd2024:renewables_capacity,Wind:176
+CAN_RE_176_Wind_1,176,candidate_re,Wind,RE_candidates.csv,176*Wind*1
+EXIST_Solar_B177,177,existing_re,Solar,bpesd2024:renewables_capacity,Solar:177
+CAN_RE_177_Solar_1,177,candidate_re,Solar,RE_candidates.csv,177*Solar*1
+EXIST_Wind_B177,177,existing_re,Wind,bpesd2024:renewables_capacity,Wind:177
+CAN_RE_177_Wind_1,177,candidate_re,Wind,RE_candidates.csv,177*Wind*1
+EXIST_Solar_B178,178,existing_re,Solar,bpesd2024:renewables_capacity,Solar:178
+CAN_RE_178_Solar_1,178,candidate_re,Solar,RE_candidates.csv,178*Solar*1
+EXIST_Wind_B178,178,existing_re,Wind,bpesd2024:renewables_capacity,Wind:178
+CAN_RE_178_Wind_1,178,candidate_re,Wind,RE_candidates.csv,178*Wind*1
+EXIST_Solar_B179,179,existing_re,Solar,bpesd2024:renewables_capacity,Solar:179
+CAN_RE_179_Solar_1,179,candidate_re,Solar,RE_candidates.csv,179*Solar*1
+EXIST_Wind_B179,179,existing_re,Wind,bpesd2024:renewables_capacity,Wind:179
+CAN_RE_179_Wind_1,179,candidate_re,Wind,RE_candidates.csv,179*Wind*1
+EXIST_Solar_B180,180,existing_re,Solar,bpesd2024:renewables_capacity,Solar:180
+CAN_RE_180_Solar_1,180,candidate_re,Solar,RE_candidates.csv,180*Solar*1
+EXIST_Wind_B180,180,existing_re,Wind,bpesd2024:renewables_capacity,Wind:180
+CAN_RE_180_Wind_1,180,candidate_re,Wind,RE_candidates.csv,180*Wind*1
+EXIST_Solar_B181,181,existing_re,Solar,bpesd2024:renewables_capacity,Solar:181
+CAN_RE_181_Solar_1,181,candidate_re,Solar,RE_candidates.csv,181*Solar*1
+EXIST_Wind_B181,181,existing_re,Wind,bpesd2024:renewables_capacity,Wind:181
+CAN_RE_181_Wind_1,181,candidate_re,Wind,RE_candidates.csv,181*Wind*1
+EXIST_Solar_B182,182,existing_re,Solar,bpesd2024:renewables_capacity,Solar:182
+CAN_RE_182_Solar_1,182,candidate_re,Solar,RE_candidates.csv,182*Solar*1
+EXIST_Wind_B182,182,existing_re,Wind,bpesd2024:renewables_capacity,Wind:182
+CAN_RE_182_Wind_1,182,candidate_re,Wind,RE_candidates.csv,182*Wind*1
+EXIST_Solar_B183,183,existing_re,Solar,bpesd2024:renewables_capacity,Solar:183
+CAN_RE_183_Solar_1,183,candidate_re,Solar,RE_candidates.csv,183*Solar*1
+EXIST_Wind_B183,183,existing_re,Wind,bpesd2024:renewables_capacity,Wind:183
+CAN_RE_183_Wind_1,183,candidate_re,Wind,RE_candidates.csv,183*Wind*1
+EXIST_Solar_B184,184,existing_re,Solar,bpesd2024:renewables_capacity,Solar:184
+CAN_RE_184_Solar_1,184,candidate_re,Solar,RE_candidates.csv,184*Solar*1
+EXIST_Wind_B184,184,existing_re,Wind,bpesd2024:renewables_capacity,Wind:184
+CAN_RE_184_Wind_1,184,candidate_re,Wind,RE_candidates.csv,184*Wind*1
+EXIST_Solar_B185,185,existing_re,Solar,bpesd2024:renewables_capacity,Solar:185
+CAN_RE_185_Solar_1,185,candidate_re,Solar,RE_candidates.csv,185*Solar*1
+EXIST_Wind_B185,185,existing_re,Wind,bpesd2024:renewables_capacity,Wind:185
+CAN_RE_185_Wind_1,185,candidate_re,Wind,RE_candidates.csv,185*Wind*1
+EXIST_Solar_B186,186,existing_re,Solar,bpesd2024:renewables_capacity,Solar:186
+CAN_RE_186_Solar_1,186,candidate_re,Solar,RE_candidates.csv,186*Solar*1
+EXIST_Wind_B186,186,existing_re,Wind,bpesd2024:renewables_capacity,Wind:186
+CAN_RE_186_Wind_1,186,candidate_re,Wind,RE_candidates.csv,186*Wind*1
+EXIST_Solar_B187,187,existing_re,Solar,bpesd2024:renewables_capacity,Solar:187
+CAN_RE_187_Solar_1,187,candidate_re,Solar,RE_candidates.csv,187*Solar*1
+EXIST_Wind_B187,187,existing_re,Wind,bpesd2024:renewables_capacity,Wind:187
+CAN_RE_187_Wind_1,187,candidate_re,Wind,RE_candidates.csv,187*Wind*1
+EXIST_Solar_B188,188,existing_re,Solar,bpesd2024:renewables_capacity,Solar:188
+CAN_RE_188_Solar_1,188,candidate_re,Solar,RE_candidates.csv,188*Solar*1
+EXIST_Wind_B188,188,existing_re,Wind,bpesd2024:renewables_capacity,Wind:188
+CAN_RE_188_Wind_1,188,candidate_re,Wind,RE_candidates.csv,188*Wind*1
+EXIST_Solar_B189,189,existing_re,Solar,bpesd2024:renewables_capacity,Solar:189
+CAN_RE_189_Solar_1,189,candidate_re,Solar,RE_candidates.csv,189*Solar*1
+EXIST_Wind_B189,189,existing_re,Wind,bpesd2024:renewables_capacity,Wind:189
+CAN_RE_189_Wind_1,189,candidate_re,Wind,RE_candidates.csv,189*Wind*1
+EXIST_Solar_B190,190,existing_re,Solar,bpesd2024:renewables_capacity,Solar:190
+CAN_RE_190_Solar_1,190,candidate_re,Solar,RE_candidates.csv,190*Solar*1
+EXIST_Wind_B190,190,existing_re,Wind,bpesd2024:renewables_capacity,Wind:190
+CAN_RE_190_Wind_1,190,candidate_re,Wind,RE_candidates.csv,190*Wind*1
+EXIST_Solar_B191,191,existing_re,Solar,bpesd2024:renewables_capacity,Solar:191
+CAN_RE_191_Solar_1,191,candidate_re,Solar,RE_candidates.csv,191*Solar*1
+EXIST_Wind_B191,191,existing_re,Wind,bpesd2024:renewables_capacity,Wind:191
+CAN_RE_191_Wind_1,191,candidate_re,Wind,RE_candidates.csv,191*Wind*1
+EXIST_Solar_B192,192,existing_re,Solar,bpesd2024:renewables_capacity,Solar:192
+CAN_RE_192_Solar_1,192,candidate_re,Solar,RE_candidates.csv,192*Solar*1
+EXIST_Wind_B192,192,existing_re,Wind,bpesd2024:renewables_capacity,Wind:192
+CAN_RE_192_Wind_1,192,candidate_re,Wind,RE_candidates.csv,192*Wind*1
+EXIST_Solar_B193,193,existing_re,Solar,bpesd2024:renewables_capacity,Solar:193
+CAN_RE_193_Solar_1,193,candidate_re,Solar,RE_candidates.csv,193*Solar*1
+EXIST_Wind_B193,193,existing_re,Wind,bpesd2024:renewables_capacity,Wind:193
+CAN_RE_193_Wind_1,193,candidate_re,Wind,RE_candidates.csv,193*Wind*1
+CAN_ST_65_BESS_1,65,candidate_bess,BESS,sto_candidates.csv,65*BESS*1
+CAN_ST_68_BESS_1,68,candidate_bess,BESS,sto_candidates.csv,68*BESS*1
+CAN_ST_71_BESS_1,71,candidate_bess,BESS,sto_candidates.csv,71*BESS*1
+CAN_ST_73_BESS_1,73,candidate_bess,BESS,sto_candidates.csv,73*BESS*1
+CAN_ST_75_BESS_1,75,candidate_bess,BESS,sto_candidates.csv,75*BESS*1
+CAN_ST_76_BESS_1,76,candidate_bess,BESS,sto_candidates.csv,76*BESS*1
+CAN_ST_80_BESS_1,80,candidate_bess,BESS,sto_candidates.csv,80*BESS*1
+CAN_ST_82_BESS_1,82,candidate_bess,BESS,sto_candidates.csv,82*BESS*1
+CAN_ST_85_BESS_1,85,candidate_bess,BESS,sto_candidates.csv,85*BESS*1
+CAN_ST_86_BESS_1,86,candidate_bess,BESS,sto_candidates.csv,86*BESS*1
+CAN_ST_107_BESS_1,107,candidate_bess,BESS,sto_candidates.csv,107*BESS*1
+CAN_ST_108_BESS_1,108,candidate_bess,BESS,sto_candidates.csv,108*BESS*1
+CAN_ST_109_BESS_1,109,candidate_bess,BESS,sto_candidates.csv,109*BESS*1
+CAN_ST_110_BESS_1,110,candidate_bess,BESS,sto_candidates.csv,110*BESS*1
+CAN_ST_111_BESS_1,111,candidate_bess,BESS,sto_candidates.csv,111*BESS*1
+CAN_ST_112_BESS_1,112,candidate_bess,BESS,sto_candidates.csv,112*BESS*1
+CAN_ST_113_BESS_1,113,candidate_bess,BESS,sto_candidates.csv,113*BESS*1
+CAN_ST_114_BESS_1,114,candidate_bess,BESS,sto_candidates.csv,114*BESS*1
+CAN_ST_115_BESS_1,115,candidate_bess,BESS,sto_candidates.csv,115*BESS*1
+CAN_ST_116_BESS_1,116,candidate_bess,BESS,sto_candidates.csv,116*BESS*1
+CAN_ST_117_BESS_1,117,candidate_bess,BESS,sto_candidates.csv,117*BESS*1
+CAN_ST_118_BESS_1,118,candidate_bess,BESS,sto_candidates.csv,118*BESS*1
+CAN_ST_119_BESS_1,119,candidate_bess,BESS,sto_candidates.csv,119*BESS*1
+CAN_ST_120_BESS_1,120,candidate_bess,BESS,sto_candidates.csv,120*BESS*1
+CAN_ST_121_BESS_1,121,candidate_bess,BESS,sto_candidates.csv,121*BESS*1
+CAN_ST_122_BESS_1,122,candidate_bess,BESS,sto_candidates.csv,122*BESS*1
+CAN_ST_123_BESS_1,123,candidate_bess,BESS,sto_candidates.csv,123*BESS*1
+CAN_ST_124_BESS_1,124,candidate_bess,BESS,sto_candidates.csv,124*BESS*1
+CAN_ST_125_BESS_1,125,candidate_bess,BESS,sto_candidates.csv,125*BESS*1
+CAN_ST_126_BESS_1,126,candidate_bess,BESS,sto_candidates.csv,126*BESS*1
+CAN_ST_127_BESS_1,127,candidate_bess,BESS,sto_candidates.csv,127*BESS*1
+CAN_ST_128_BESS_1,128,candidate_bess,BESS,sto_candidates.csv,128*BESS*1
+CAN_ST_129_BESS_1,129,candidate_bess,BESS,sto_candidates.csv,129*BESS*1
+CAN_ST_130_BESS_1,130,candidate_bess,BESS,sto_candidates.csv,130*BESS*1
+CAN_ST_131_BESS_1,131,candidate_bess,BESS,sto_candidates.csv,131*BESS*1
+CAN_ST_132_BESS_1,132,candidate_bess,BESS,sto_candidates.csv,132*BESS*1
+CAN_ST_133_BESS_1,133,candidate_bess,BESS,sto_candidates.csv,133*BESS*1
+CAN_ST_134_BESS_1,134,candidate_bess,BESS,sto_candidates.csv,134*BESS*1
+CAN_ST_135_BESS_1,135,candidate_bess,BESS,sto_candidates.csv,135*BESS*1
+CAN_ST_136_BESS_1,136,candidate_bess,BESS,sto_candidates.csv,136*BESS*1
+CAN_ST_138_BESS_1,138,candidate_bess,BESS,sto_candidates.csv,138*BESS*1
+CAN_ST_139_BESS_1,139,candidate_bess,BESS,sto_candidates.csv,139*BESS*1
+CAN_ST_140_BESS_1,140,candidate_bess,BESS,sto_candidates.csv,140*BESS*1
+CAN_ST_141_BESS_1,141,candidate_bess,BESS,sto_candidates.csv,141*BESS*1
+CAN_ST_142_BESS_1,142,candidate_bess,BESS,sto_candidates.csv,142*BESS*1
+CAN_ST_143_BESS_1,143,candidate_bess,BESS,sto_candidates.csv,143*BESS*1
+CAN_ST_144_BESS_1,144,candidate_bess,BESS,sto_candidates.csv,144*BESS*1
+CAN_ST_145_BESS_1,145,candidate_bess,BESS,sto_candidates.csv,145*BESS*1
+HYDRO_B005,5,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,5
+HYDRO_B020,20,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,20
+HYDRO_B065,65,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,65
+HYDRO_B066,66,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,66
+HYDRO_B067,67,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,67
+HYDRO_B073,73,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,73
+HYDRO_B084,84,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,84
+HYDRO_B087,87,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,87
+HYDRO_B090,90,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,90
+HYDRO_B092,92,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,92
+HYDRO_B098,98,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,98
+HYDRO_B107,107,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,107
+HYDRO_B117,117,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,117
+HYDRO_B133,133,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,133
+HYDRO_B164,164,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,164
+HYDRO_B170,170,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,170
+HYDRO_B171,171,profile_hydro,Hydro,bpesd2024:hydro_generators.csv,171
+CAN_RE_6_OffshoreWind_1,6,candidate_re,OffshoreWind,RE_candidates.csv,6*OffshoreWind*1
+CAN_RE_11_OffshoreWind_1,11,candidate_re,OffshoreWind,RE_candidates.csv,11*OffshoreWind*1
+CAN_RE_21_OffshoreWind_1,21,candidate_re,OffshoreWind,RE_candidates.csv,21*OffshoreWind*1
+CAN_RE_27_OffshoreWind_1,27,candidate_re,OffshoreWind,RE_candidates.csv,27*OffshoreWind*1
+CAN_RE_34_OffshoreWind_1,34,candidate_re,OffshoreWind,RE_candidates.csv,34*OffshoreWind*1
+CAN_RE_37_OffshoreWind_1,37,candidate_re,OffshoreWind,RE_candidates.csv,37*OffshoreWind*1
+CAN_RE_40_OffshoreWind_1,40,candidate_re,OffshoreWind,RE_candidates.csv,40*OffshoreWind*1
+CAN_RE_47_OffshoreWind_1,47,candidate_re,OffshoreWind,RE_candidates.csv,47*OffshoreWind*1
+CAN_RE_49_OffshoreWind_1,49,candidate_re,OffshoreWind,RE_candidates.csv,49*OffshoreWind*1
+CAN_RE_53_OffshoreWind_1,53,candidate_re,OffshoreWind,RE_candidates.csv,53*OffshoreWind*1
+CAN_RE_57_OffshoreWind_1,57,candidate_re,OffshoreWind,RE_candidates.csv,57*OffshoreWind*1
+CAN_RE_58_OffshoreWind_1,58,candidate_re,OffshoreWind,RE_candidates.csv,58*OffshoreWind*1
+CAN_RE_59_OffshoreWind_1,59,candidate_re,OffshoreWind,RE_candidates.csv,59*OffshoreWind*1
+CAN_RE_63_OffshoreWind_1,63,candidate_re,OffshoreWind,RE_candidates.csv,63*OffshoreWind*1
+CAN_RE_65_OffshoreWind_1,65,candidate_re,OffshoreWind,RE_candidates.csv,65*OffshoreWind*1
+CAN_RE_68_OffshoreWind_1,68,candidate_re,OffshoreWind,RE_candidates.csv,68*OffshoreWind*1
+CAN_RE_71_OffshoreWind_1,71,candidate_re,OffshoreWind,RE_candidates.csv,71*OffshoreWind*1
+CAN_RE_73_OffshoreWind_1,73,candidate_re,OffshoreWind,RE_candidates.csv,73*OffshoreWind*1
+CAN_RE_75_OffshoreWind_1,75,candidate_re,OffshoreWind,RE_candidates.csv,75*OffshoreWind*1
+CAN_RE_82_OffshoreWind_1,82,candidate_re,OffshoreWind,RE_candidates.csv,82*OffshoreWind*1
+CAN_RE_88_OffshoreWind_1,88,candidate_re,OffshoreWind,RE_candidates.csv,88*OffshoreWind*1
+CAN_RE_94_OffshoreWind_1,94,candidate_re,OffshoreWind,RE_candidates.csv,94*OffshoreWind*1
+CAN_RE_100_OffshoreWind_1,100,candidate_re,OffshoreWind,RE_candidates.csv,100*OffshoreWind*1
+CAN_RE_106_OffshoreWind_1,106,candidate_re,OffshoreWind,RE_candidates.csv,106*OffshoreWind*1
+CAN_RE_108_OffshoreWind_1,108,candidate_re,OffshoreWind,RE_candidates.csv,108*OffshoreWind*1
+CAN_RE_114_OffshoreWind_1,114,candidate_re,OffshoreWind,RE_candidates.csv,114*OffshoreWind*1
+CAN_RE_118_OffshoreWind_1,118,candidate_re,OffshoreWind,RE_candidates.csv,118*OffshoreWind*1
+CAN_RE_124_OffshoreWind_1,124,candidate_re,OffshoreWind,RE_candidates.csv,124*OffshoreWind*1
+CAN_RE_129_OffshoreWind_1,129,candidate_re,OffshoreWind,RE_candidates.csv,129*OffshoreWind*1
+CAN_RE_132_OffshoreWind_1,132,candidate_re,OffshoreWind,RE_candidates.csv,132*OffshoreWind*1
+CAN_RE_133_OffshoreWind_1,133,candidate_re,OffshoreWind,RE_candidates.csv,133*OffshoreWind*1
+CAN_RE_134_OffshoreWind_1,134,candidate_re,OffshoreWind,RE_candidates.csv,134*OffshoreWind*1
+CAN_RE_135_OffshoreWind_1,135,candidate_re,OffshoreWind,RE_candidates.csv,135*OffshoreWind*1
+CAN_RE_137_OffshoreWind_1,137,candidate_re,OffshoreWind,RE_candidates.csv,137*OffshoreWind*1
+CAN_RE_138_OffshoreWind_1,138,candidate_re,OffshoreWind,RE_candidates.csv,138*OffshoreWind*1
+CAN_RE_139_OffshoreWind_1,139,candidate_re,OffshoreWind,RE_candidates.csv,139*OffshoreWind*1
+CAN_RE_140_OffshoreWind_1,140,candidate_re,OffshoreWind,RE_candidates.csv,140*OffshoreWind*1
+CAN_RE_141_OffshoreWind_1,141,candidate_re,OffshoreWind,RE_candidates.csv,141*OffshoreWind*1
+CAN_RE_142_OffshoreWind_1,142,candidate_re,OffshoreWind,RE_candidates.csv,142*OffshoreWind*1
+CAN_RE_143_OffshoreWind_1,143,candidate_re,OffshoreWind,RE_candidates.csv,143*OffshoreWind*1
+CAN_RE_144_OffshoreWind_1,144,candidate_re,OffshoreWind,RE_candidates.csv,144*OffshoreWind*1
+CAN_RE_145_OffshoreWind_1,145,candidate_re,OffshoreWind,RE_candidates.csv,145*OffshoreWind*1
+CAN_RE_150_OffshoreWind_1,150,candidate_re,OffshoreWind,RE_candidates.csv,150*OffshoreWind*1
+CAN_RE_151_OffshoreWind_1,151,candidate_re,OffshoreWind,RE_candidates.csv,151*OffshoreWind*1
+CAN_RE_158_OffshoreWind_1,158,candidate_re,OffshoreWind,RE_candidates.csv,158*OffshoreWind*1
+CAN_RE_166_OffshoreWind_1,166,candidate_re,OffshoreWind,RE_candidates.csv,166*OffshoreWind*1
+CAN_RE_167_OffshoreWind_1,167,candidate_re,OffshoreWind,RE_candidates.csv,167*OffshoreWind*1
+CAN_RE_175_OffshoreWind_1,175,candidate_re,OffshoreWind,RE_candidates.csv,175*OffshoreWind*1
+CAN_RE_176_OffshoreWind_1,176,candidate_re,OffshoreWind,RE_candidates.csv,176*OffshoreWind*1
+CAN_RE_180_OffshoreWind_1,180,candidate_re,OffshoreWind,RE_candidates.csv,180*OffshoreWind*1
+CAN_RE_182_OffshoreWind_1,182,candidate_re,OffshoreWind,RE_candidates.csv,182*OffshoreWind*1
+CAN_RE_183_OffshoreWind_1,183,candidate_re,OffshoreWind,RE_candidates.csv,183*OffshoreWind*1
+CAN_RE_184_OffshoreWind_1,184,candidate_re,OffshoreWind,RE_candidates.csv,184*OffshoreWind*1
+CAN_RE_185_OffshoreWind_1,185,candidate_re,OffshoreWind,RE_candidates.csv,185*OffshoreWind*1
+CAN_RE_186_OffshoreWind_1,186,candidate_re,OffshoreWind,RE_candidates.csv,186*OffshoreWind*1
+CAN_RE_187_OffshoreWind_1,187,candidate_re,OffshoreWind,RE_candidates.csv,187*OffshoreWind*1
+CAN_RE_189_OffshoreWind_1,189,candidate_re,OffshoreWind,RE_candidates.csv,189*OffshoreWind*1
+CAN_RE_190_OffshoreWind_1,190,candidate_re,OffshoreWind,RE_candidates.csv,190*OffshoreWind*1
+CAN_RE_191_OffshoreWind_1,191,candidate_re,OffshoreWind,RE_candidates.csv,191*OffshoreWind*1
+CAN_RE_192_OffshoreWind_1,192,candidate_re,OffshoreWind,RE_candidates.csv,192*OffshoreWind*1
+CAN_RE_193_OffshoreWind_1,193,candidate_re,OffshoreWind,RE_candidates.csv,193*OffshoreWind*1

@@ -1,0 +1,25 @@
+Solver: Gurobi
+NetworkExpansion: 0
+DC_OPF: 0
+Trans_Loss_Segments: 0
+OperationalReserves: 1
+EnergyShareRequirement: 0
+# Annual BPESD11 installed-capacity RA is added in run_GenX.jl.
+CapacityReserveMargin: 0
+CO2Cap: 1
+MinCapReq: 0
+MaxCapReq: 0
+ParameterScale: 1
+# All Thermal.Model values are 2: no commitment variables are created.
+# UCommit=2 keeps an empty integer-typed COMMIT set in GenX 0.4.5;
+# UCommit=0 creates Any[], which breaks native reserves under Julia 1.12.
+UCommit: 2
+TimeDomainReduction: 0
+MultiStage: 1
+StorageVirtualDischarge: 0
+VirtualChargeDischargeCost: 0
+WriteShadowPrices: 0
+WriteOutputs: full
+OverwriteResults: 1
+EnableJuMPDirectModel: false
+EnableJuMPStringNames: false

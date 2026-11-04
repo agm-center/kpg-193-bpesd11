@@ -1,0 +1,113 @@
+HydrogenHourlyMatching: 0
+NetworkExpansion: 0
+TimeDomainReductionFolder: "TDR_results"
+WriteOutputs: "full"
+SystemFolder: "system"
+EnableJuMPStringNames: false
+Trans_Loss_Segments: 0
+ModelingtoGenerateAlternativeSlack: 0.1
+Solver: "Gurobi"
+PoliciesFolder: "policies"
+LDSAdditionalConstraints: 1
+MultiStage: 1
+ComputeConflicts: 0
+OverwriteResults: 1
+ObjScale: 1
+ModelingToGenerateAlternatives: 0
+OutputFullTimeSeries: 0
+MaxCapReq: 0
+MinCapReq: 0
+CO2Cap: 1
+WriteShadowPrices: 0
+EnableJuMPDirectModel: false
+MultiStageSettingsDict:
+  Myopic: 0
+  CurStage: 14
+  WriteIntermittentOutputs: 0
+  NumStages: 15
+  ConvergenceTolerance: 1.0e-7
+  WACC: 0.06
+  StageLengths:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+OutputFullTimeSeriesFolder: "Full_TimeSeries"
+HydrogenMinimumProduction: 0
+OperationalReserves: 1
+ParameterScale: 1
+EnergyShareRequirement: 0
+PrintModel: 0
+TimeDomainReduction: 0
+DC_OPF: 0
+CapacityReserveMargin: 0
+MethodofMorris: 0
+StorageVirtualDischarge: 0
+MGAAnnualGeneration: 0
+StorageLosses: 1
+IncludeLossesInESR: 0
+ResourcePoliciesFolder: "policy_assignments"
+WriteOutputsSettingsDict:
+  WriteReserveMarginWithWeights: true
+  WriteStorage: true
+  WriteStatus: true
+  WriteRsv: true
+  WriteNetRevenue: true
+  WriteNWExpansion: true
+  WriteSubsidyRevenue: true
+  WriteTimeWeights: true
+  WriteVREStor: true
+  WriteCO2: true
+  WriteESRPrices: true
+  WriteReg: true
+  WriteCurtailment: true
+  WriteCapacityFactor: true
+  WriteCommit: true
+  WriteStart: true
+  WriteReserveMargin: true
+  WriteFusion: true
+  WriteChargingCost: true
+  WriteCapacityValue: true
+  WriteEnergyRevenue: true
+  WriteAngles: true
+  WriteFuelConsumption: true
+  WriteStorageDual: true
+  WriteTransmissionLosses: true
+  WriteTransmissionFlows: true
+  WriteNSE: true
+  WriteCO2Cap: true
+  WriteOpWrapLDSStorInit: true
+  WriteEmissions: true
+  WriteESRRevenue: true
+  WriteCapacity: true
+  WriteVirtualDischarge: true
+  WriteReserveMarginRevenue: true
+  WriteOpWrapLDSdStor: true
+  WriteMaintenance: true
+  WritePower: true
+  WriteReliability: true
+  WriteCharge: true
+  WriteShutdown: true
+  WriteHydrogenPrices: true
+  WriteReserveMarginSlack: true
+  WriteCosts: true
+  WriteMaxCapReq: true
+  WriteHourlyMatchingPrices: true
+  WritePowerBalance: true
+  WriteMinCapReq: true
+  WritePrice: true
+VirtualChargeDischargeCost: 0
+UCommit: 2
+HourlyMatching: 0
+ResourcesFolder: "resources"

@@ -1,0 +1,5 @@
+gen_type,CO2_t_per_MWh
+Coal,0.8384
+LNG,0.38
+Nuclear,0
+IGCC,0.8384
